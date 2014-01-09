@@ -1,0 +1,706 @@
+{
+    "s:Schema": {
+        "-id": "RowsetSchema",
+        "s:ElementType": {
+            "-name": "row",
+            "-content": "eltOnly",
+            "-rs:CommandTimeout": "30",
+            "s:AttributeType": [
+                {
+                    "-name": "ows_LinkTitle",
+                    "-rs:name": "Acronym",
+                    "-rs:number": "1",
+                    "s:datatype": {
+                        "-dt:type": "string",
+                        "-dt:maxLength": "512"
+                    }
+                },
+                {
+                    "-name": "ows_Full_x0020_Name",
+                    "-rs:name": "Full Name",
+                    "-rs:number": "2",
+                    "s:datatype": {
+                        "-dt:type": "string",
+                        "-dt:maxLength": "512"
+                    }
+                }
+            ]
+        }
+    },
+    "rs:data": {
+        "z:row": [
+            {
+                "-ows_LinkTitle": "AACOM",
+                "-ows_Full_x0020_Name": "American Association of Colleges of Osteopathic Medicine"
+            },
+            {
+                "-ows_LinkTitle": "AAHC",
+                "-ows_Full_x0020_Name": "Association of Academic Health Centers"
+            },
+            {
+                "-ows_LinkTitle": "AAMA",
+                "-ows_Full_x0020_Name": "American Association of Medical Assistants"
+            },
+            {
+                "-ows_LinkTitle": "AAMC",
+                "-ows_Full_x0020_Name": "Association of American Medical Colleges"
+            },
+            {
+                "-ows_LinkTitle": "AAOMS",
+                "-ows_Full_x0020_Name": "American Association of Oral and Maxillofacial Surgery"
+            },
+            {
+                "-ows_LinkTitle": "AART",
+                "-ows_Full_x0020_Name": "American Registry of Radiologic Technologists"
+            },
+            {
+                "-ows_LinkTitle": "AAVMC",
+                "-ows_Full_x0020_Name": "Association of American Veterinary Medical Colleges"
+            },
+            {
+                "-ows_LinkTitle": "ABA",
+                "-ows_Full_x0020_Name": "American Board of Anesthesiology"
+            },
+            {
+                "-ows_LinkTitle": "ABA/ASA",
+                "-ows_Full_x0020_Name": "American Board of Anesthesiology/American Society of Anesthesiologists"
+            },
+            {
+                "-ows_LinkTitle": "ABAI",
+                "-ows_Full_x0020_Name": "American Board of Allergy and Immunology"
+            },
+            {
+                "-ows_LinkTitle": "ABAM",
+                "-ows_Full_x0020_Name": "American Board of Addiction Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ABCC",
+                "-ows_Full_x0020_Name": "American Board of Comprehensive Care"
+            },
+            {
+                "-ows_LinkTitle": "ABD",
+                "-ows_Full_x0020_Name": "American Board of Dermatology"
+            },
+            {
+                "-ows_LinkTitle": "ABFM",
+                "-ows_Full_x0020_Name": "American Board of Family Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ABGC",
+                "-ows_Full_x0020_Name": "American Board of Genetic Counseling"
+            },
+            {
+                "-ows_LinkTitle": "ABHPM",
+                "-ows_Full_x0020_Name": "American Board of Hospice and Palliative Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ABIM",
+                "-ows_Full_x0020_Name": "American Board of Internal Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ABMG",
+                "-ows_Full_x0020_Name": "American Board of Medical Genetics"
+            },
+            {
+                "-ows_LinkTitle": "ABMG/ABGC",
+                "-ows_Full_x0020_Name": "American Board of Medical Genetics/American Board of Genetic Counseling"
+            },
+            {
+                "-ows_LinkTitle": "ABMS",
+                "-ows_Full_x0020_Name": "American Board of Medical Specialties"
+            },
+            {
+                "-ows_LinkTitle": "ABNS",
+                "-ows_Full_x0020_Name": "American Board of Neurological Surgery"
+            },
+            {
+                "-ows_LinkTitle": "ABO",
+                "-ows_Full_x0020_Name": "American Board of Ophthalmology"
+            },
+            {
+                "-ows_LinkTitle": "ABOM",
+                "-ows_Full_x0020_Name": "American Board of Obesity Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ABOS",
+                "-ows_Full_x0020_Name": "American Board of Orthopaedic Surgery"
+            },
+            {
+                "-ows_LinkTitle": "ABOto",
+                "-ows_Full_x0020_Name": "American Board of Otolaryngology"
+            },
+            {
+                "-ows_LinkTitle": "ABP",
+                "-ows_Full_x0020_Name": "American Board of Pedatrics"
+            },
+            {
+                "-ows_LinkTitle": "ABPM",
+                "-ows_Full_x0020_Name": "American Board of Preventive Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ABPN",
+                "-ows_Full_x0020_Name": "American Board of Psychiatry and Neurology"
+            },
+            {
+                "-ows_LinkTitle": "ABPS",
+                "-ows_Full_x0020_Name": "American Board of Plastic Surgery"
+            },
+            {
+                "-ows_LinkTitle": "ABPTS",
+                "-ows_Full_x0020_Name": "American Board of Physical Therapy Specialties"
+            },
+            {
+                "-ows_LinkTitle": "ABQAURP",
+                "-ows_Full_x0020_Name": "American Board of Quality Assurance and Utilization Review Physicians, Inc."
+            },
+            {
+                "-ows_LinkTitle": "ABR",
+                "-ows_Full_x0020_Name": "American Board of Radiology"
+            },
+            {
+                "-ows_LinkTitle": "ABS",
+                "-ows_Full_x0020_Name": "American Board of Surgery"
+            },
+            {
+                "-ows_LinkTitle": "ACC",
+                "-ows_Full_x0020_Name": "American College of Cardiology"
+            },
+            {
+                "-ows_LinkTitle": "ACCF",
+                "-ows_Full_x0020_Name": "American College of Cardiology Foundation"
+            },
+            {
+                "-ows_LinkTitle": "ACCME",
+                "-ows_Full_x0020_Name": "Accreditation Council for Continuing Medical Education"
+            },
+            {
+                "-ows_LinkTitle": "ACE",
+                "-ows_Full_x0020_Name": "Advanced Clinical Examination"
+            },
+            {
+                "-ows_LinkTitle": "ACGME",
+                "-ows_Full_x0020_Name": "Accreditation Council for Graduate Medical Education"
+            },
+            {
+                "-ows_LinkTitle": "ACGME-I",
+                "-ows_Full_x0020_Name": "ACGME-International"
+            },
+            {
+                "-ows_LinkTitle": "ACM",
+                "-ows_Full_x0020_Name": "Advanced Clinical Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ACME",
+                "-ows_Full_x0020_Name": "Alliance for Continuing Medical Education"
+            },
+            {
+                "-ows_LinkTitle": "ACOG",
+                "-ows_Full_x0020_Name": "American College of Obstetrics and Gynecology"
+            },
+            {
+                "-ows_LinkTitle": "ACP",
+                "-ows_Full_x0020_Name": "Assessment Center Program"
+            },
+            {
+                "-ows_LinkTitle": "ACP",
+                "-ows_Full_x0020_Name": "American College of Physicians"
+            },
+            {
+                "-ows_LinkTitle": "ACR",
+                "-ows_Full_x0020_Name": "American College of Rheumatology"
+            },
+            {
+                "-ows_LinkTitle": "ACS",
+                "-ows_Full_x0020_Name": "American College of Surgeons"
+            },
+            {
+                "-ows_LinkTitle": "ACT",
+                "-ows_Full_x0020_Name": "American College Testing Program"
+            },
+            {
+                "-ows_LinkTitle": "ACUMS",
+                "-ows_Full_x0020_Name": "Association of Chinese University Medical Schools"
+            },
+            {
+                "-ows_LinkTitle": "ACVP",
+                "-ows_Full_x0020_Name": "American College of Veterinary Pathology"
+            },
+            {
+                "-ows_LinkTitle": "ACVPM",
+                "-ows_Full_x0020_Name": "American College of Veterinary Preventive Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ADA",
+                "-ows_Full_x0020_Name": "Americans with Disabilities Act or American Diabetes Association"
+            },
+            {
+                "-ows_LinkTitle": "ADAAA",
+                "-ows_Full_x0020_Name": "Americans with Disabilities Amendments Act"
+            },
+            {
+                "-ows_LinkTitle": "ADARA",
+                "-ows_Full_x0020_Name": "ADA Restoration Act of 2007"
+            },
+            {
+                "-ows_LinkTitle": "ADEA",
+                "-ows_Full_x0020_Name": "Age Discrimination in Employment Act"
+            },
+            {
+                "-ows_LinkTitle": "ADS",
+                "-ows_Full_x0020_Name": "Applications and Database Services"
+            },
+            {
+                "-ows_LinkTitle": "AERA",
+                "-ows_Full_x0020_Name": "American Educational Research Association"
+            },
+            {
+                "-ows_LinkTitle": "AGA",
+                "-ows_Full_x0020_Name": "American Gastroenterological Association"
+            },
+            {
+                "-ows_LinkTitle": "AGS",
+                "-ows_Full_x0020_Name": "American Geriatrics Society"
+            },
+            {
+                "-ows_LinkTitle": "AHA",
+                "-ows_Full_x0020_Name": "American Hospital Association"
+            },
+            {
+                "-ows_LinkTitle": "AI",
+                "-ows_Full_x0020_Name": "Advanced Informatics"
+            },
+            {
+                "-ows_LinkTitle": "AICB",
+                "-ows_Full_x0020_Name": "Autoevaluación Integral de Ciencias Básicas, a translation of the Comprehensive Basic Science Self-Assessment"
+            },
+            {
+                "-ows_LinkTitle": "AICC",
+                "-ows_Full_x0020_Name": "Autoevaluación Integral de Ciencias Clínicas (AICC), a translation of the Comprehensive Clinical Science Self-Assessment"
+            },
+            {
+                "-ows_LinkTitle": "AIR",
+                "-ows_Full_x0020_Name": "American Institutes for Research"
+            },
+            {
+                "-ows_LinkTitle": "ALP",
+                "-ows_Full_x0020_Name": "ACGME Learning Portfolio"
+            },
+            {
+                "-ows_LinkTitle": "AMA",
+                "-ows_Full_x0020_Name": "American Medical Association"
+            },
+            {
+                "-ows_LinkTitle": "AMC",
+                "-ows_Full_x0020_Name": "Australian Medical Council"
+            },
+            {
+                "-ows_LinkTitle": "AMEE",
+                "-ows_Full_x0020_Name": "Association for Medical Education in Europe"
+            },
+            {
+                "-ows_LinkTitle": "AMIA",
+                "-ows_Full_x0020_Name": "American Medical Informatics Association"
+            },
+            {
+                "-ows_LinkTitle": "AMP",
+                "-ows_Full_x0020_Name": "Applied Measurement Professionals"
+            },
+            {
+                "-ows_LinkTitle": "AMP",
+                "-ows_Full_x0020_Name": "Assessment for Medical Practice"
+            },
+            {
+                "-ows_LinkTitle": "AMSA",
+                "-ows_Full_x0020_Name": "American Medical Student Association"
+            },
+            {
+                "-ows_LinkTitle": "ANCOVA",
+                "-ows_Full_x0020_Name": "Analysis of Covariance"
+            },
+            {
+                "-ows_LinkTitle": "ANSI",
+                "-ows_Full_x0020_Name": "American National Standards Institute"
+            },
+            {
+                "-ows_LinkTitle": "AOA",
+                "-ows_Full_x0020_Name": "American Osteopathic Association"
+            },
+            {
+                "-ows_LinkTitle": "AOA",
+                "-ows_Full_x0020_Name": "Alpha Omega Alpha – medical honor society"
+            },
+            {
+                "-ows_LinkTitle": "AOA-BOS",
+                "-ows_Full_x0020_Name": "American Osteopathic Association Bureau of Osteopathic Specialties"
+            },
+            {
+                "-ows_LinkTitle": "AOBOS",
+                "-ows_Full_x0020_Name": "American Osteopathic Board of Orthopedic Surgery"
+            },
+            {
+                "-ows_LinkTitle": "AOF",
+                "-ows_Full_x0020_Name": "American Osteopathic Foundation"
+            },
+            {
+                "-ows_LinkTitle": "AOMRC",
+                "-ows_Full_x0020_Name": "Academy of Medical Royal Colleges"
+            },
+            {
+                "-ows_LinkTitle": "AP",
+                "-ows_Full_x0020_Name": "Assessment Programs – organizational unit of the NBME"
+            },
+            {
+                "-ows_LinkTitle": "APB",
+                "-ows_Full_x0020_Name": "Assessment of Professional Behaviors"
+            },
+            {
+                "-ows_LinkTitle": "APDIM",
+                "-ows_Full_x0020_Name": "Association of Program Directors in Internal Medicine"
+            },
+            {
+                "-ows_LinkTitle": "APHA",
+                "-ows_Full_x0020_Name": "American Public Health Association"
+            },
+            {
+                "-ows_LinkTitle": "APMLE",
+                "-ows_Full_x0020_Name": "American Podiatric Medical Licensing Exam"
+            },
+            {
+                "-ows_LinkTitle": "APPD",
+                "-ows_Full_x0020_Name": "Association of Pediatric Program Directors"
+            },
+            {
+                "-ows_LinkTitle": "APT",
+                "-ows_Full_x0020_Name": "Action Planning Team"
+            },
+            {
+                "-ows_LinkTitle": "APTA",
+                "-ows_Full_x0020_Name": "American Physical Therapy Association"
+            },
+            {
+                "-ows_LinkTitle": "AS",
+                "-ows_Full_x0020_Name": "Applicant Services – subunit of the NBME’s Professional Services unit"
+            },
+            {
+                "-ows_LinkTitle": "ASA",
+                "-ows_Full_x0020_Name": "American Society of Anesthesiologists"
+            },
+            {
+                "-ows_LinkTitle": "ASAM",
+                "-ows_Full_x0020_Name": "American Society for Addiction Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ASCII",
+                "-ows_Full_x0020_Name": "American Standard Code for Information Interchange"
+            },
+            {
+                "-ows_LinkTitle": "ASCO",
+                "-ows_Full_x0020_Name": "American Society of Clinical Oncology"
+            },
+            {
+                "-ows_LinkTitle": "ASE",
+                "-ows_Full_x0020_Name": "American Society of Echocardiography"
+            },
+            {
+                "-ows_LinkTitle": "ASH",
+                "-ows_Full_x0020_Name": "American Society of Hypertension"
+            },
+            {
+                "-ows_LinkTitle": "ASH",
+                "-ows_Full_x0020_Name": "American Society of Hematology"
+            },
+            {
+                "-ows_LinkTitle": "ASHRM",
+                "-ows_Full_x0020_Name": "American Society of Healthcare Risk Management"
+            },
+            {
+                "-ows_LinkTitle": "ASME",
+                "-ows_Full_x0020_Name": "Association for the Study of Medical Education"
+            },
+            {
+                "-ows_LinkTitle": "ASN",
+                "-ows_Full_x0020_Name": "American Society of Nephrology"
+            },
+            {
+                "-ows_LinkTitle": "ASP",
+                "-ows_Full_x0020_Name": "Association of Subspecialty Professors"
+            },
+            {
+                "-ows_LinkTitle": "ASPE",
+                "-ows_Full_x0020_Name": "Association for Standardized Patient Educators"
+            },
+            {
+                "-ows_LinkTitle": "ASPEFAM",
+                "-ows_Full_x0020_Name": "Association of Peruvian Faculties of Medicine"
+            },
+            {
+                "-ows_LinkTitle": "ASPH",
+                "-ows_Full_x0020_Name": "Association of Schools of Public Health"
+            },
+            {
+                "-ows_LinkTitle": "ASPS",
+                "-ows_Full_x0020_Name": "American Society of Plastic Surgery"
+            },
+            {
+                "-ows_LinkTitle": "ASR",
+                "-ows_Full_x0020_Name": "American Society of Rheumatology"
+            },
+            {
+                "-ows_LinkTitle": "ATA",
+                "-ows_Full_x0020_Name": "automated test assembly"
+            },
+            {
+                "-ows_LinkTitle": "ATD",
+                "-ows_Full_x0020_Name": "Alternate Test Delivery"
+            },
+            {
+                "-ows_LinkTitle": "ATP",
+                "-ows_Full_x0020_Name": "Association of Test Publishers"
+            },
+            {
+                "-ows_LinkTitle": "AVMA",
+                "-ows_Full_x0020_Name": "American Veterinary Medical Association"
+            },
+            {
+                "-ows_LinkTitle": "AVP",
+                "-ows_Full_x0020_Name": "Associate/Assistant Vice President – NBME"
+            },
+            {
+                "-ows_LinkTitle": "BA",
+                "-ows_Full_x0020_Name": "Business Analyst"
+            },
+            {
+                "-ows_LinkTitle": "BAS",
+                "-ows_Full_x0020_Name": "Building Automation System"
+            },
+            {
+                "-ows_LinkTitle": "BDR",
+                "-ows_Full_x0020_Name": "Benefit delivery report"
+            },
+            {
+                "-ows_LinkTitle": "BER",
+                "-ows_Full_x0020_Name": "Business Expense Report"
+            },
+            {
+                "-ows_LinkTitle": "BI",
+                "-ows_Full_x0020_Name": "Business Intelligence"
+            },
+            {
+                "-ows_LinkTitle": "BIA",
+                "-ows_Full_x0020_Name": "Business Impact Analysis"
+            },
+            {
+                "-ows_LinkTitle": "BIMS",
+                "-ows_Full_x0020_Name": "Biometric Identity Management System"
+            },
+            {
+                "-ows_LinkTitle": "BLOB",
+                "-ows_Full_x0020_Name": "Binary Large Object – NBME test driver (FRED)/Oracle files"
+            },
+            {
+                "-ows_LinkTitle": "BPMI",
+                "-ows_Full_x0020_Name": "Business process management and integration"
+            },
+            {
+                "-ows_LinkTitle": "BS",
+                "-ows_Full_x0020_Name": "Basic Science"
+            },
+            {
+                "-ows_LinkTitle": "BSE",
+                "-ows_Full_x0020_Name": "Basic Science Examination"
+            },
+            {
+                "-ows_LinkTitle": "BTE",
+                "-ows_Full_x0020_Name": "Bridges to Excellence"
+            },
+            {
+                "-ows_LinkTitle": "CABTRAC",
+                "-ows_Full_x0020_Name": "Cancer Biology Training Consortium"
+            },
+            {
+                "-ows_LinkTitle": "CACC",
+                "-ows_Full_x0020_Name": "Council for the Advancement of Comprehensive Care"
+            },
+            {
+                "-ows_LinkTitle": "CAID",
+                "-ows_Full_x0020_Name": "Computer Assisted Item Development"
+            },
+            {
+                "-ows_LinkTitle": "CAPTNS",
+                "-ows_Full_x0020_Name": "Computer automated patient note scoring system"
+            },
+            {
+                "-ows_LinkTitle": "CAQ",
+                "-ows_Full_x0020_Name": "Certification of Added Qualifications"
+            },
+            {
+                "-ows_LinkTitle": "CAS",
+                "-ows_Full_x0020_Name": "Customized Assessment Services"
+            },
+            {
+                "-ows_LinkTitle": "CAS-ODS",
+                "-ows_Full_x0020_Name": "Customized Assessment Services Operational Data Store"
+            },
+            {
+                "-ows_LinkTitle": "CASP",
+                "-ows_Full_x0020_Name": "CCS Alternate Scoring Program"
+            },
+            {
+                "-ows_LinkTitle": "CAT",
+                "-ows_Full_x0020_Name": "Computerized Adaptive Testing"
+            },
+            {
+                "-ows_LinkTitle": "CATF",
+                "-ows_Full_x0020_Name": "CRU Advisory Task Force"
+            },
+            {
+                "-ows_LinkTitle": "CBCCT",
+                "-ows_Full_x0020_Name": "Certification Board of Cardiovascular Comput"
+            },
+            {
+                "-ows_LinkTitle": "CBME",
+                "-ows_Full_x0020_Name": "Competency-based medical education"
+            },
+            {
+                "-ows_LinkTitle": "CBNC",
+                "-ows_Full_x0020_Name": "Certification Board of Nuclear Cardiology"
+            },
+            {
+                "-ows_LinkTitle": "CBSE",
+                "-ows_Full_x0020_Name": "Comprehensive Basic Science Examination – one of the NBME’s subject examinations"
+            },
+            {
+                "-ows_LinkTitle": "CBSSA",
+                "-ows_Full_x0020_Name": "Comprehensive Basic Science Self-Assessment"
+            },
+            {
+                "-ows_LinkTitle": "CBT",
+                "-ows_Full_x0020_Name": "Computer-based Testing"
+            },
+            {
+                "-ows_LinkTitle": "CCCI",
+                "-ows_Full_x0020_Name": "Council for Certification in Cardiovascular I"
+            },
+            {
+                "-ows_LinkTitle": "CCEG",
+                "-ows_Full_x0020_Name": "Composite Committee Emergency Group"
+            },
+            {
+                "-ows_LinkTitle": "CCM",
+                "-ows_Full_x0020_Name": "Critical Care Medicine examination of the American Board of Anesthesiology"
+            },
+            {
+                "-ows_LinkTitle": "CCMSA",
+                "-ows_Full_x0020_Name": "Comprehensive Clinical Medicine Self-Assessment"
+            },
+            {
+                "-ows_LinkTitle": "CCS",
+                "-ows_Full_x0020_Name": "Computer-based Case Simulations"
+            },
+            {
+                "-ows_LinkTitle": "CCSE",
+                "-ows_Full_x0020_Name": "Comprehensive Clinical Science Examination"
+            },
+            {
+                "-ows_LinkTitle": "CCSSA",
+                "-ows_Full_x0020_Name": "Comprehensive Clinical Science Self-Assessment"
+            },
+            {
+                "-ows_LinkTitle": "CDC",
+                "-ows_Full_x0020_Name": "California Department of Corrections"
+            },
+            {
+                "-ows_LinkTitle": "CDC",
+                "-ows_Full_x0020_Name": "Centers for Disease Control and Prevention"
+            },
+            {
+                "-ows_LinkTitle": "CDI",
+                "-ows_Full_x0020_Name": "Clinical data infrastructure"
+            },
+            {
+                "-ows_LinkTitle": "CDIM",
+                "-ows_Full_x0020_Name": "Clerkship Directors in Internal Medicine"
+            },
+            {
+                "-ows_LinkTitle": "CEPH",
+                "-ows_Full_x0020_Name": "Council on Education for Public Health"
+            },
+            {
+                "-ows_LinkTitle": "CEUP",
+                "-ows_Full_x0020_Name": "Committee for Evaluation of the USMLE Program"
+            },
+            {
+                "-ows_LinkTitle": "CEX",
+                "-ows_Full_x0020_Name": "Clinical Evaluation Exercise – Mini-CEX of the ABIM"
+            },
+            {
+                "-ows_LinkTitle": "CFP",
+                "-ows_Full_x0020_Name": "Call for Proposal"
+            },
+            {
+                "-ows_LinkTitle": "CI",
+                "-ows_Full_x0020_Name": "Center for Innovation"
+            },
+            {
+                "-ows_LinkTitle": "CIAC",
+                "-ows_Full_x0020_Name": "Center for Innovation Advisory Committee"
+            },
+            {
+                "-ows_LinkTitle": "CIB",
+                "-ows_Full_x0020_Name": "Committee on Irregular Behavior"
+            },
+            {
+                "-ows_LinkTitle": "CIBIS",
+                "-ows_Full_x0020_Name": "Common Identity Biographic Information System"
+            },
+            {
+                "-ows_LinkTitle": "CIBSV",
+                "-ows_Full_x0020_Name": "Committee on Irregular Behavior and Score Validity"
+            },
+            {
+                "-ows_LinkTitle": "CIN",
+                "-ows_Full_x0020_Name": "Candidate Identification Number"
+            },
+            {
+                "-ows_LinkTitle": "CIR",
+                "-ows_Full_x0020_Name": "Committee for Individualized Review"
+            },
+            {
+                "-ows_LinkTitle": "CIS",
+                "-ows_Full_x0020_Name": "Communication/interpersonal skills – a scoring component of the Step 2 Clinical Skills examination"
+            },
+            {
+                "-ows_LinkTitle": "CK",
+                "-ows_Full_x0020_Name": "Clinical Knowledge"
+            },
+            {
+                "-ows_LinkTitle": "CKL",
+                "-ows_Full_x0020_Name": "Checklist – Step 2 CS component"
+            },
+            {
+                "-ows_LinkTitle": "CLAF",
+                "-ows_Full_x0020_Name": "Common Licensure Application Form"
+            },
+            {
+                "-ows_LinkTitle": "CLAS",
+                "-ows_Full_x0020_Name": "Common Licensure Application System"
+            },
+            {
+                "-ows_LinkTitle": "CLEAR",
+                "-ows_Full_x0020_Name": "Council on Licensure Enforcement and Regulation"
+            },
+            {
+                "-ows_LinkTitle": "CLOP",
+                "-ows_Full_x0020_Name": "Client Operation"
+            },
+            {
+                "-ows_LinkTitle": "CMB",
+                "-ows_Full_x0020_Name": "China Medical Board"
+            },
+            {
+                "-ows_LinkTitle": "CME",
+                "-ows_Full_x0020_Name": "Continuing Medical Education or Council on Medical Education"
+            }
+        ]
+    }
+}

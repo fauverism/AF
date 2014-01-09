@@ -1,0 +1,56 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'angular' ]
+2 info using npm@1.2.24
+3 info using node@v0.10.9
+4 verbose read json /Users/fauverism/package.json
+5 verbose read json /Users/fauverism/node_modules/angular/package.json
+6 verbose read json /Users/fauverism/node_modules/attempt/package.json
+7 verbose read json /Users/fauverism/node_modules/bower/package.json
+8 verbose read json /Users/fauverism/node_modules/generator-angular/package.json
+9 verbose read json /Users/fauverism/node_modules/generator-karma/package.json
+10 verbose read json /Users/fauverism/node_modules/generator-mocha/package.json
+11 verbose read json /Users/fauverism/node_modules/generator-webapp/package.json
+12 verbose read json /Users/fauverism/node_modules/grunt-cli/package.json
+13 verbose read json /Users/fauverism/node_modules/twitter-bootstrap-node/package.json
+14 verbose read json /Users/fauverism/node_modules/underscore/package.json
+15 verbose read json /Users/fauverism/node_modules/webapp/package.json
+16 verbose read json /Users/fauverism/node_modules/yo/package.json
+17 verbose read json /Users/fauverism/package.json
+18 verbose cache add [ 'angular', null ]
+19 verbose cache add name=undefined spec="angular" args=["angular",null]
+20 verbose parsed url { protocol: null,
+20 verbose parsed url   slashes: null,
+20 verbose parsed url   auth: null,
+20 verbose parsed url   host: null,
+20 verbose parsed url   port: null,
+20 verbose parsed url   hostname: null,
+20 verbose parsed url   hash: null,
+20 verbose parsed url   search: null,
+20 verbose parsed url   query: null,
+20 verbose parsed url   pathname: 'angular',
+20 verbose parsed url   path: 'angular',
+20 verbose parsed url   href: 'angular' }
+21 silly lockFile 54e0c177-angular angular
+22 verbose lock angular /Users/fauverism/.npm/54e0c177-angular.lock
+23 silly lockFile 54e0c177-angular angular
+24 verbose addNamed [ 'angular', '' ]
+25 verbose addNamed [ null, '' ]
+26 silly lockFile fdbbf89d-angular angular@
+27 verbose lock angular@ /Users/fauverism/.npm/fdbbf89d-angular.lock
+28 silly lockFile fdbbf89d-angular angular@
+29 error Error: EACCES, open '/Users/fauverism/.npm/fdbbf89d-angular.lock'
+29 error  { [Error: EACCES, open '/Users/fauverism/.npm/fdbbf89d-angular.lock']
+29 error   errno: 3,
+29 error   code: 'EACCES',
+29 error   path: '/Users/fauverism/.npm/fdbbf89d-angular.lock' }
+30 error Please try running this command again as root/Administrator.
+31 error System Darwin 13.0.0
+32 error command "node" "/usr/local/bin/npm" "install" "angular"
+33 error cwd /Users/fauverism/Documents/github/acrofinder
+34 error node -v v0.10.9
+35 error npm -v 1.2.24
+36 error path /Users/fauverism/.npm/fdbbf89d-angular.lock
+37 error code EACCES
+38 error errno 3
+39 error stack Error: EACCES, open '/Users/fauverism/.npm/fdbbf89d-angular.lock'
+40 verbose exit [ 3, true ]

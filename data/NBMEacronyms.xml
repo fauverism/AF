@@ -1,0 +1,1247 @@
+<xml xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+
+<s:Schema id="RowsetSchema">
+
+<s:ElementType name="row" content="eltOnly" rs:CommandTimeout="30">
+
+<s:AttributeType name="ows_LinkTitle" rs:name="Acronym" rs:number="1">
+
+<s:datatype dt:type="string" dt:maxLength="512"/>
+
+</s:AttributeType>
+
+<s:AttributeType name="ows_Full_x0020_Name" rs:name="Full Name" rs:number="2">
+
+<s:datatype dt:type="string" dt:maxLength="512"/>
+
+</s:AttributeType>
+
+</s:ElementType>
+
+</s:Schema>
+
+<rs:data>
+
+<z:row ows_LinkTitle="AACOM" ows_Full_x0020_Name="American Association of Colleges of Osteopathic Medicine"/>
+
+<z:row ows_LinkTitle="AAHC" ows_Full_x0020_Name="Association of Academic Health Centers"/>
+
+<z:row ows_LinkTitle="AAMA" ows_Full_x0020_Name="American Association of Medical Assistants"/>
+
+<z:row ows_LinkTitle="AAMC" ows_Full_x0020_Name="Association of American Medical Colleges"/>
+
+<z:row ows_LinkTitle="AAOMS" ows_Full_x0020_Name="American Association of Oral and Maxillofacial Surgery"/>
+
+<z:row ows_LinkTitle="AART" ows_Full_x0020_Name="American Registry of Radiologic Technologists"/>
+
+<z:row ows_LinkTitle="AAVMC" ows_Full_x0020_Name="Association of American Veterinary Medical Colleges"/>
+
+<z:row ows_LinkTitle="ABA" ows_Full_x0020_Name="American Board of Anesthesiology"/>
+
+<z:row ows_LinkTitle="ABA/ASA" ows_Full_x0020_Name="American Board of Anesthesiology/American Society of Anesthesiologists"/>
+
+<z:row ows_LinkTitle="ABAI" ows_Full_x0020_Name="American Board of Allergy and Immunology"/>
+
+<z:row ows_LinkTitle="ABAM" ows_Full_x0020_Name="American Board of Addiction Medicine"/>
+
+<z:row ows_LinkTitle="ABCC" ows_Full_x0020_Name="American Board of Comprehensive Care"/>
+
+<z:row ows_LinkTitle="ABD" ows_Full_x0020_Name="American Board of Dermatology"/>
+
+<z:row ows_LinkTitle="ABFM" ows_Full_x0020_Name="American Board of Family Medicine"/>
+
+<z:row ows_LinkTitle="ABGC" ows_Full_x0020_Name="American Board of Genetic Counseling"/>
+
+<z:row ows_LinkTitle="ABHPM" ows_Full_x0020_Name="American Board of Hospice and Palliative Medicine"/>
+
+<z:row ows_LinkTitle="ABIM" ows_Full_x0020_Name="American Board of Internal Medicine"/>
+
+<z:row ows_LinkTitle="ABMG" ows_Full_x0020_Name="American Board of Medical Genetics"/>
+
+<z:row ows_LinkTitle="ABMG/ABGC" ows_Full_x0020_Name="American Board of Medical Genetics/American Board of Genetic Counseling"/>
+
+<z:row ows_LinkTitle="ABMS" ows_Full_x0020_Name="American Board of Medical Specialties"/>
+
+<z:row ows_LinkTitle="ABNS" ows_Full_x0020_Name="American Board of Neurological Surgery"/>
+
+<z:row ows_LinkTitle="ABO" ows_Full_x0020_Name="American Board of Ophthalmology"/>
+
+<z:row ows_LinkTitle="ABOM" ows_Full_x0020_Name="American Board of Obesity Medicine"/>
+
+<z:row ows_LinkTitle="ABOS" ows_Full_x0020_Name="American Board of Orthopaedic Surgery"/>
+
+<z:row ows_LinkTitle="ABOto" ows_Full_x0020_Name="American Board of Otolaryngology"/>
+
+<z:row ows_LinkTitle="ABP" ows_Full_x0020_Name="American Board of Pedatrics"/>
+
+<z:row ows_LinkTitle="ABPM" ows_Full_x0020_Name="American Board of Preventive Medicine"/>
+
+<z:row ows_LinkTitle="ABPN" ows_Full_x0020_Name="American Board of Psychiatry and Neurology"/>
+
+<z:row ows_LinkTitle="ABPS" ows_Full_x0020_Name="American Board of Plastic Surgery"/>
+
+<z:row ows_LinkTitle="ABPTS" ows_Full_x0020_Name="American Board of Physical Therapy Specialties"/>
+
+<z:row ows_LinkTitle="ABQAURP" ows_Full_x0020_Name="American Board of Quality Assurance and Utilization Review Physicians, Inc."/>
+
+<z:row ows_LinkTitle="ABR" ows_Full_x0020_Name="American Board of Radiology"/>
+
+<z:row ows_LinkTitle="ABS" ows_Full_x0020_Name="American Board of Surgery"/>
+
+<z:row ows_LinkTitle="ACC" ows_Full_x0020_Name="American College of Cardiology"/>
+
+<z:row ows_LinkTitle="ACCF" ows_Full_x0020_Name="American College of Cardiology Foundation"/>
+
+<z:row ows_LinkTitle="ACCME" ows_Full_x0020_Name="Accreditation Council for Continuing Medical Education"/>
+
+<z:row ows_LinkTitle="ACE" ows_Full_x0020_Name="Advanced Clinical Examination"/>
+
+<z:row ows_LinkTitle="ACGME" ows_Full_x0020_Name="Accreditation Council for Graduate Medical Education"/>
+
+<z:row ows_LinkTitle="ACGME-I" ows_Full_x0020_Name="ACGME-International"/>
+
+<z:row ows_LinkTitle="ACM" ows_Full_x0020_Name="Advanced Clinical Medicine"/>
+
+<z:row ows_LinkTitle="ACME" ows_Full_x0020_Name="Alliance for Continuing Medical Education"/>
+
+<z:row ows_LinkTitle="ACOG" ows_Full_x0020_Name="American College of Obstetrics and Gynecology"/>
+
+<z:row ows_LinkTitle="ACP" ows_Full_x0020_Name="Assessment Center Program"/>
+
+<z:row ows_LinkTitle="ACP" ows_Full_x0020_Name="American College of Physicians"/>
+
+<z:row ows_LinkTitle="ACR" ows_Full_x0020_Name="American College of Rheumatology"/>
+
+<z:row ows_LinkTitle="ACS" ows_Full_x0020_Name="American College of Surgeons"/>
+
+<z:row ows_LinkTitle="ACT" ows_Full_x0020_Name="American College Testing Program"/>
+
+<z:row ows_LinkTitle="ACUMS" ows_Full_x0020_Name="Association of Chinese University Medical Schools"/>
+
+<z:row ows_LinkTitle="ACVP" ows_Full_x0020_Name="American College of Veterinary Pathology"/>
+
+<z:row ows_LinkTitle="ACVPM" ows_Full_x0020_Name="American College of Veterinary Preventive Medicine"/>
+
+<z:row ows_LinkTitle="ADA" ows_Full_x0020_Name="Americans with Disabilities Act or American Diabetes Association"/>
+
+<z:row ows_LinkTitle="ADAAA" ows_Full_x0020_Name="Americans with Disabilities Amendments Act"/>
+
+<z:row ows_LinkTitle="ADARA" ows_Full_x0020_Name="ADA Restoration Act of 2007"/>
+
+<z:row ows_LinkTitle="ADEA" ows_Full_x0020_Name="Age Discrimination in Employment Act"/>
+
+<z:row ows_LinkTitle="ADS" ows_Full_x0020_Name="Applications and Database Services"/>
+
+<z:row ows_LinkTitle="AERA" ows_Full_x0020_Name="American Educational Research Association"/>
+
+<z:row ows_LinkTitle="AGA" ows_Full_x0020_Name="American Gastroenterological Association"/>
+
+<z:row ows_LinkTitle="AGS" ows_Full_x0020_Name="American Geriatrics Society"/>
+
+<z:row ows_LinkTitle="AHA" ows_Full_x0020_Name="American Hospital Association"/>
+
+<z:row ows_LinkTitle="AI" ows_Full_x0020_Name="Advanced Informatics"/>
+
+<z:row ows_LinkTitle="AICB" ows_Full_x0020_Name="Autoevaluación Integral de Ciencias Básicas, a translation of the Comprehensive Basic Science Self-Assessment"/>
+
+<z:row ows_LinkTitle="AICC" ows_Full_x0020_Name="Autoevaluación Integral de Ciencias Clínicas (AICC), a translation of the Comprehensive Clinical Science Self-Assessment"/>
+
+<z:row ows_LinkTitle="AIR" ows_Full_x0020_Name="American Institutes for Research"/>
+
+<z:row ows_LinkTitle="ALP" ows_Full_x0020_Name="ACGME Learning Portfolio"/>
+
+<z:row ows_LinkTitle="AMA" ows_Full_x0020_Name="American Medical Association"/>
+
+<z:row ows_LinkTitle="AMC" ows_Full_x0020_Name="Australian Medical Council"/>
+
+<z:row ows_LinkTitle="AMEE" ows_Full_x0020_Name="Association for Medical Education in Europe"/>
+
+<z:row ows_LinkTitle="AMIA" ows_Full_x0020_Name="American Medical Informatics Association"/>
+
+<z:row ows_LinkTitle="AMP" ows_Full_x0020_Name="Applied Measurement Professionals"/>
+
+<z:row ows_LinkTitle="AMP" ows_Full_x0020_Name="Assessment for Medical Practice"/>
+
+<z:row ows_LinkTitle="AMSA" ows_Full_x0020_Name="American Medical Student Association"/>
+
+<z:row ows_LinkTitle="ANCOVA" ows_Full_x0020_Name="Analysis of Covariance"/>
+
+<z:row ows_LinkTitle="ANSI" ows_Full_x0020_Name="American National Standards Institute"/>
+
+<z:row ows_LinkTitle="AOA" ows_Full_x0020_Name="American Osteopathic Association"/>
+
+<z:row ows_LinkTitle="AOA" ows_Full_x0020_Name="Alpha Omega Alpha – medical honor society"/>
+
+<z:row ows_LinkTitle="AOA-BOS" ows_Full_x0020_Name="American Osteopathic Association Bureau of Osteopathic Specialties"/>
+
+<z:row ows_LinkTitle="AOBOS" ows_Full_x0020_Name="American Osteopathic Board of Orthopedic Surgery"/>
+
+<z:row ows_LinkTitle="AOF" ows_Full_x0020_Name="American Osteopathic Foundation"/>
+
+<z:row ows_LinkTitle="AOMRC" ows_Full_x0020_Name="Academy of Medical Royal Colleges"/>
+
+<z:row ows_LinkTitle="AP" ows_Full_x0020_Name="Assessment Programs – organizational unit of the NBME"/>
+
+<z:row ows_LinkTitle="APB" ows_Full_x0020_Name="Assessment of Professional Behaviors"/>
+
+<z:row ows_LinkTitle="APDIM" ows_Full_x0020_Name="Association of Program Directors in Internal Medicine"/>
+
+<z:row ows_LinkTitle="APHA" ows_Full_x0020_Name="American Public Health Association"/>
+
+<z:row ows_LinkTitle="APMLE" ows_Full_x0020_Name="American Podiatric Medical Licensing Exam"/>
+
+<z:row ows_LinkTitle="APPD" ows_Full_x0020_Name="Association of Pediatric Program Directors"/>
+
+<z:row ows_LinkTitle="APT" ows_Full_x0020_Name="Action Planning Team"/>
+
+<z:row ows_LinkTitle="APTA" ows_Full_x0020_Name="American Physical Therapy Association"/>
+
+<z:row ows_LinkTitle="AS" ows_Full_x0020_Name="Applicant Services – subunit of the NBME’s Professional Services unit"/>
+
+<z:row ows_LinkTitle="ASA" ows_Full_x0020_Name="American Society of Anesthesiologists"/>
+
+<z:row ows_LinkTitle="ASAM" ows_Full_x0020_Name="American Society for Addiction Medicine"/>
+
+<z:row ows_LinkTitle="ASCII" ows_Full_x0020_Name="American Standard Code for Information Interchange"/>
+
+<z:row ows_LinkTitle="ASCO" ows_Full_x0020_Name="American Society of Clinical Oncology"/>
+
+<z:row ows_LinkTitle="ASE" ows_Full_x0020_Name="American Society of Echocardiography"/>
+
+<z:row ows_LinkTitle="ASH" ows_Full_x0020_Name="American Society of Hypertension"/>
+
+<z:row ows_LinkTitle="ASH" ows_Full_x0020_Name="American Society of Hematology"/>
+
+<z:row ows_LinkTitle="ASHRM" ows_Full_x0020_Name="American Society of Healthcare Risk Management"/>
+
+<z:row ows_LinkTitle="ASME" ows_Full_x0020_Name="Association for the Study of Medical Education"/>
+
+<z:row ows_LinkTitle="ASN" ows_Full_x0020_Name="American Society of Nephrology"/>
+
+<z:row ows_LinkTitle="ASP" ows_Full_x0020_Name="Association of Subspecialty Professors"/>
+
+<z:row ows_LinkTitle="ASPE" ows_Full_x0020_Name="Association for Standardized Patient Educators"/>
+
+<z:row ows_LinkTitle="ASPEFAM" ows_Full_x0020_Name="Association of Peruvian Faculties of Medicine"/>
+
+<z:row ows_LinkTitle="ASPH" ows_Full_x0020_Name="Association of Schools of Public Health"/>
+
+<z:row ows_LinkTitle="ASPS" ows_Full_x0020_Name="American Society of Plastic Surgery"/>
+
+<z:row ows_LinkTitle="ASR" ows_Full_x0020_Name="American Society of Rheumatology"/>
+
+<z:row ows_LinkTitle="ATA" ows_Full_x0020_Name="automated test assembly"/>
+
+<z:row ows_LinkTitle="ATD" ows_Full_x0020_Name="Alternate Test Delivery"/>
+
+<z:row ows_LinkTitle="ATP" ows_Full_x0020_Name="Association of Test Publishers"/>
+
+<z:row ows_LinkTitle="AVMA" ows_Full_x0020_Name="American Veterinary Medical Association"/>
+
+<z:row ows_LinkTitle="AVP" ows_Full_x0020_Name="Associate/Assistant Vice President – NBME"/>
+
+<z:row ows_LinkTitle="BA" ows_Full_x0020_Name="Business Analyst"/>
+
+<z:row ows_LinkTitle="BAS" ows_Full_x0020_Name="Building Automation System"/>
+
+<z:row ows_LinkTitle="BDR" ows_Full_x0020_Name="Benefit delivery report"/>
+
+<z:row ows_LinkTitle="BER" ows_Full_x0020_Name="Business Expense Report"/>
+
+<z:row ows_LinkTitle="BI" ows_Full_x0020_Name="Business Intelligence"/>
+
+<z:row ows_LinkTitle="BIA" ows_Full_x0020_Name="Business Impact Analysis"/>
+
+<z:row ows_LinkTitle="BIMS" ows_Full_x0020_Name="Biometric Identity Management System"/>
+
+<z:row ows_LinkTitle="BLOB" ows_Full_x0020_Name="Binary Large Object – NBME test driver (FRED)/Oracle files"/>
+
+<z:row ows_LinkTitle="BPMI" ows_Full_x0020_Name="Business process management and integration"/>
+
+<z:row ows_LinkTitle="BS" ows_Full_x0020_Name="Basic Science"/>
+
+<z:row ows_LinkTitle="BSE" ows_Full_x0020_Name="Basic Science Examination"/>
+
+<z:row ows_LinkTitle="BTE" ows_Full_x0020_Name="Bridges to Excellence"/>
+
+<z:row ows_LinkTitle="CABTRAC" ows_Full_x0020_Name="Cancer Biology Training Consortium"/>
+
+<z:row ows_LinkTitle="CACC" ows_Full_x0020_Name="Council for the Advancement of Comprehensive Care"/>
+
+<z:row ows_LinkTitle="CAID" ows_Full_x0020_Name="Computer Assisted Item Development"/>
+
+<z:row ows_LinkTitle="CAPTNS" ows_Full_x0020_Name="Computer automated patient note scoring system"/>
+
+<z:row ows_LinkTitle="CAQ" ows_Full_x0020_Name="Certification of Added Qualifications"/>
+
+<z:row ows_LinkTitle="CAS" ows_Full_x0020_Name="Customized Assessment Services"/>
+
+<z:row ows_LinkTitle="CAS-ODS" ows_Full_x0020_Name="Customized Assessment Services Operational Data Store"/>
+
+<z:row ows_LinkTitle="CASP" ows_Full_x0020_Name="CCS Alternate Scoring Program"/>
+
+<z:row ows_LinkTitle="CAT" ows_Full_x0020_Name="Computerized Adaptive Testing"/>
+
+<z:row ows_LinkTitle="CATF" ows_Full_x0020_Name="CRU Advisory Task Force"/>
+
+<z:row ows_LinkTitle="CBCCT" ows_Full_x0020_Name="Certification Board of Cardiovascular Comput"/>
+
+<z:row ows_LinkTitle="CBME" ows_Full_x0020_Name="Competency-based medical education"/>
+
+<z:row ows_LinkTitle="CBNC" ows_Full_x0020_Name="Certification Board of Nuclear Cardiology"/>
+
+<z:row ows_LinkTitle="CBSE" ows_Full_x0020_Name="Comprehensive Basic Science Examination – one of the NBME’s subject examinations"/>
+
+<z:row ows_LinkTitle="CBSSA" ows_Full_x0020_Name="Comprehensive Basic Science Self-Assessment"/>
+
+<z:row ows_LinkTitle="CBT" ows_Full_x0020_Name="Computer-based Testing"/>
+
+<z:row ows_LinkTitle="CCCI" ows_Full_x0020_Name="Council for Certification in Cardiovascular I"/>
+
+<z:row ows_LinkTitle="CCEG" ows_Full_x0020_Name="Composite Committee Emergency Group"/>
+
+<z:row ows_LinkTitle="CCM" ows_Full_x0020_Name="Critical Care Medicine examination of the American Board of Anesthesiology"/>
+
+<z:row ows_LinkTitle="CCMSA" ows_Full_x0020_Name="Comprehensive Clinical Medicine Self-Assessment"/>
+
+<z:row ows_LinkTitle="CCS" ows_Full_x0020_Name="Computer-based Case Simulations"/>
+
+<z:row ows_LinkTitle="CCSE" ows_Full_x0020_Name="Comprehensive Clinical Science Examination"/>
+
+<z:row ows_LinkTitle="CCSSA" ows_Full_x0020_Name="Comprehensive Clinical Science Self-Assessment"/>
+
+<z:row ows_LinkTitle="CDC" ows_Full_x0020_Name="California Department of Corrections"/>
+
+<z:row ows_LinkTitle="CDC" ows_Full_x0020_Name="Centers for Disease Control and Prevention"/>
+
+<z:row ows_LinkTitle="CDI" ows_Full_x0020_Name="Clinical data infrastructure"/>
+
+<z:row ows_LinkTitle="CDIM" ows_Full_x0020_Name="Clerkship Directors in Internal Medicine"/>
+
+<z:row ows_LinkTitle="CEPH" ows_Full_x0020_Name="Council on Education for Public Health"/>
+
+<z:row ows_LinkTitle="CEUP" ows_Full_x0020_Name="Committee for Evaluation of the USMLE Program"/>
+
+<z:row ows_LinkTitle="CEX" ows_Full_x0020_Name="Clinical Evaluation Exercise – Mini-CEX of the ABIM"/>
+
+<z:row ows_LinkTitle="CFP" ows_Full_x0020_Name="Call for Proposal"/>
+
+<z:row ows_LinkTitle="CI" ows_Full_x0020_Name="Center for Innovation"/>
+
+<z:row ows_LinkTitle="CIAC" ows_Full_x0020_Name="Center for Innovation Advisory Committee"/>
+
+<z:row ows_LinkTitle="CIB" ows_Full_x0020_Name="Committee on Irregular Behavior"/>
+
+<z:row ows_LinkTitle="CIBIS" ows_Full_x0020_Name="Common Identity Biographic Information System"/>
+
+<z:row ows_LinkTitle="CIBSV" ows_Full_x0020_Name="Committee on Irregular Behavior and Score Validity"/>
+
+<z:row ows_LinkTitle="CIN" ows_Full_x0020_Name="Candidate Identification Number"/>
+
+<z:row ows_LinkTitle="CIR" ows_Full_x0020_Name="Committee for Individualized Review"/>
+
+<z:row ows_LinkTitle="CIS" ows_Full_x0020_Name="Communication/interpersonal skills – a scoring component of the Step 2 Clinical Skills examination"/>
+
+<z:row ows_LinkTitle="CK" ows_Full_x0020_Name="Clinical Knowledge"/>
+
+<z:row ows_LinkTitle="CKL" ows_Full_x0020_Name="Checklist – Step 2 CS component"/>
+
+<z:row ows_LinkTitle="CLAF" ows_Full_x0020_Name="Common Licensure Application Form"/>
+
+<z:row ows_LinkTitle="CLAS" ows_Full_x0020_Name="Common Licensure Application System"/>
+
+<z:row ows_LinkTitle="CLEAR" ows_Full_x0020_Name="Council on Licensure Enforcement and Regulation"/>
+
+<z:row ows_LinkTitle="CLOP" ows_Full_x0020_Name="Client Operation"/>
+
+<z:row ows_LinkTitle="CMB" ows_Full_x0020_Name="China Medical Board"/>
+
+<z:row ows_LinkTitle="CME" ows_Full_x0020_Name="Continuing Medical Education or Council on Medical Education"/>
+
+<z:row ows_LinkTitle="CMIS" ows_Full_x0020_Name="Contract Management & Information System"/>
+
+<z:row ows_LinkTitle="CMLES" ows_Full_x0020_Name="Common Medical Licensure Examination System"/>
+
+<z:row ows_LinkTitle="CMSCS" ows_Full_x0020_Name="Comprehensive medical school consultative service"/>
+
+<z:row ows_LinkTitle="CMSS" ows_Full_x0020_Name="Council of Medical Specialty Societies"/>
+
+<z:row ows_LinkTitle="CO*RE*" ows_Full_x0020_Name="Collaborative for REMS Education"/>
+
+<z:row ows_LinkTitle="COD" ows_Full_x0020_Name="Close of Day"/>
+
+<z:row ows_LinkTitle="CODA" ows_Full_x0020_Name="Cover Outcome Data Analyses; Database tables containing complete data (i.e., all timing and navigation events) from FRED v2 outcome files"/>
+
+<z:row ows_LinkTitle="COGME" ows_Full_x0020_Name="Council on Graduate Medical Education"/>
+
+<z:row ows_LinkTitle="COMLEX" ows_Full_x0020_Name="Comprehensive Osteopathic Medical Licensing Examination"/>
+
+<z:row ows_LinkTitle="COMMOC" ows_Full_x0020_Name="Committee on Management of MOC"/>
+
+<z:row ows_LinkTitle="COMSEP" ows_Full_x0020_Name="Council on Medical Student Education in Pediatrics"/>
+
+<z:row ows_LinkTitle="COSO" ows_Full_x0020_Name="Committee of Sponsoring Organizations of the Treadway Commission"/>
+
+<z:row ows_LinkTitle="COSTRAT" ows_Full_x0020_Name="Collaboration Strategic Planning Committee for NAVLE"/>
+
+<z:row ows_LinkTitle="COVERT" ows_Full_x0020_Name="Computer Vendor Reporting and Tracking System"/>
+
+<z:row ows_LinkTitle="CP" ows_Full_x0020_Name="Client Programs – subunit of NBME Assessment Programs unit"/>
+
+<z:row ows_LinkTitle="CPD" ows_Full_x0020_Name="Continuing Professional Development"/>
+
+<z:row ows_LinkTitle="CPE" ows_Full_x0020_Name="Coalition for Physician Enhancement"/>
+
+<z:row ows_LinkTitle="CPEP" ows_Full_x0020_Name="Center for Personalized Education for Physicians"/>
+
+<z:row ows_LinkTitle="CPH" ows_Full_x0020_Name="Certified in public health"/>
+
+<z:row ows_LinkTitle="CPP" ows_Full_x0020_Name="College of Physicians of Philadelphia"/>
+
+<z:row ows_LinkTitle="CPR" ows_Full_x0020_Name="Center Problem Report"/>
+
+<z:row ows_LinkTitle="CPR" ows_Full_x0020_Name="Candidate Problem Report"/>
+
+<z:row ows_LinkTitle="CPSG" ows_Full_x0020_Name="College of Physicians and Surgeons of Ghana"/>
+
+<z:row ows_LinkTitle="CRU" ows_Full_x0020_Name="Comprehensive Review of USMLE"/>
+
+<z:row ows_LinkTitle="CS" ows_Full_x0020_Name="Clinical Skills"/>
+
+<z:row ows_LinkTitle="CSA/E" ows_Full_x0020_Name="Clinical Skills Assessment/Evaluation"/>
+
+<z:row ows_LinkTitle="CSE" ows_Full_x0020_Name="Clinical Science Examination"/>
+
+<z:row ows_LinkTitle="CSEC" ows_Full_x0020_Name="Clinical Skills Evaluation Collaboration"/>
+
+<z:row ows_LinkTitle="CSEC ED" ows_Full_x0020_Name="CSEC Executive Director"/>
+
+<z:row ows_LinkTitle="CSPE" ows_Full_x0020_Name="Clinical skills patient encounter"/>
+
+<z:row ows_LinkTitle="CSQ" ows_Full_x0020_Name="Customer Service Queue"/>
+
+<z:row ows_LinkTitle="CSR" ows_Full_x0020_Name="Customer Service Representative"/>
+
+<z:row ows_LinkTitle="CSR" ows_Full_x0020_Name="Chart Stimulated Recall"/>
+
+<z:row ows_LinkTitle="CU" ows_Full_x0020_Name="Consumers Union"/>
+
+<z:row ows_LinkTitle="CVA" ows_Full_x0020_Name="Collaboration for Veterinary Assessments"/>
+
+<z:row ows_LinkTitle="CWRU" ows_Full_x0020_Name="Case Western Reserve University"/>
+
+<z:row ows_LinkTitle="D1" ows_Full_x0020_Name="Validation of NBME business architecture work done to date (deliverable 1, or D1)"/>
+
+<z:row ows_LinkTitle="D2" ows_Full_x0020_Name="Design of a renewal strategy (deliverable 2, or D2)"/>
+
+<z:row ows_LinkTitle="D3" ows_Full_x0020_Name="Completion of a prototype renewal project using the proposed renewal strategy (deliverable 3, or D3)"/>
+
+<z:row ows_LinkTitle="D4" ows_Full_x0020_Name="Construction of a governance model for the renewal process (deliverable 4, or D4)"/>
+
+<z:row ows_LinkTitle="DEA" ows_Full_x0020_Name="Delegated Expenditure Authority"/>
+
+<z:row ows_LinkTitle="DG" ows_Full_x0020_Name="Decision gate"/>
+
+<z:row ows_LinkTitle="DHCC" ows_Full_x0020_Name="Dubai Healthcare City"/>
+
+<z:row ows_LinkTitle="DHCC CPQ" ows_Full_x0020_Name="Dubai Healthcare City Center for Quality and Planning"/>
+
+<z:row ows_LinkTitle="DHCC LB" ows_Full_x0020_Name="Dubai Healthcare City Licensing Board"/>
+
+<z:row ows_LinkTitle="DIF" ows_Full_x0020_Name="Differential item functioning analysis"/>
+
+<z:row ows_LinkTitle="DNP" ows_Full_x0020_Name="Doctor of Nursing Practice"/>
+
+<z:row ows_LinkTitle="DOCK" ows_Full_x0020_Name="Demonstration of Ophthalmic Cognitive Knowledge"/>
+
+<z:row ows_LinkTitle="DP" ows_Full_x0020_Name="Developmental Programs – subunit of the NBME’s Assessment Programs unit"/>
+
+<z:row ows_LinkTitle="DP-1" ows_Full_x0020_Name="Decision Point 1"/>
+
+<z:row ows_LinkTitle="DP-2" ows_Full_x0020_Name="Decision Point 2"/>
+
+<z:row ows_LinkTitle="DPTA" ows_Full_x0020_Name="Deceptive Trade Practices and Consumer Protection Act"/>
+
+<z:row ows_LinkTitle="DR" ows_Full_x0020_Name="Disaster Recovery"/>
+
+<z:row ows_LinkTitle="DR-ED" ows_Full_x0020_Name="Electronic discussion group for medical educators"/>
+
+<z:row ows_LinkTitle="DS" ows_Full_x0020_Name="Disability Services – subunit of the NBME’s Professional Services unit"/>
+
+<z:row ows_LinkTitle="DSI" ows_Full_x0020_Name="Decision Strategies International"/>
+
+<z:row ows_LinkTitle="DTC" ows_Full_x0020_Name="Direct-to-consumer"/>
+
+<z:row ows_LinkTitle="DVRPC" ows_Full_x0020_Name="Delaware Valley Regional Planning Commission"/>
+
+<z:row ows_LinkTitle="DW" ows_Full_x0020_Name="Data Warehouse"/>
+
+<z:row ows_LinkTitle="EAG" ows_Full_x0020_Name="eFolio Advisory Group"/>
+
+<z:row ows_LinkTitle="EAP" ows_Full_x0020_Name="Employee assistance program"/>
+
+<z:row ows_LinkTitle="EB" ows_Full_x0020_Name="Executive Board"/>
+
+<z:row ows_LinkTitle="EBDM" ows_Full_x0020_Name="Evidence-based Decision Making"/>
+
+<z:row ows_LinkTitle="EBM" ows_Full_x0020_Name="Evidence-based medicine"/>
+
+<z:row ows_LinkTitle="EBMA" ows_Full_x0020_Name="European Board of Medical Assessors"/>
+
+<z:row ows_LinkTitle="EBP" ows_Full_x0020_Name="Enterprise Resource Planning and Budgeting"/>
+
+<z:row ows_LinkTitle="ECFMG" ows_Full_x0020_Name="Educational Commission for Foreign Medical Graduates (ECFMG)"/>
+
+<z:row ows_LinkTitle="ECFVG" ows_Full_x0020_Name="Educational Commission for Foreign Veterinary Graduates"/>
+
+<z:row ows_LinkTitle="ECN" ows_Full_x0020_Name="Employee Change Notice"/>
+
+<z:row ows_LinkTitle="ECP" ows_Full_x0020_Name="Executive Chief Proctor"/>
+
+<z:row ows_LinkTitle="EDDI" ows_Full_x0020_Name="Electronic Document Delivery Interface"/>
+
+<z:row ows_LinkTitle="EFA" ows_Full_x0020_Name="Exploratory factor analysis"/>
+
+<z:row ows_LinkTitle="eFC" ows_Full_x0020_Name="eFolio Connector"/>
+
+<z:row ows_LinkTitle="EFConn" ows_Full_x0020_Name="eFoilio Connector System"/>
+
+<z:row ows_LinkTitle="EHR" ows_Full_x0020_Name="Electronic Health Record"/>
+
+<z:row ows_LinkTitle="EII" ows_Full_x0020_Name="e-Folio Interoperability Initiative"/>
+
+<z:row ows_LinkTitle="EIP" ows_Full_x0020_Name="Educational Innovations Program – network of residency programs in internal medicine recognized by ACGME"/>
+
+<z:row ows_LinkTitle="EIR" ows_Full_x0020_Name="Examinee Irregularity Report"/>
+
+<z:row ows_LinkTitle="EKT" ows_Full_x0020_Name="European Knowledge Test"/>
+
+<z:row ows_LinkTitle="ENARM" ows_Full_x0020_Name="Examen Nacional de Aspirantes a Residencias Médicas; National Medical Residencies Examination in Mexico"/>
+
+<z:row ows_LinkTitle="EOC" ows_Full_x0020_Name="Examination Oversight Committee"/>
+
+<z:row ows_LinkTitle="EP" ows_Full_x0020_Name="Eligibility Period"/>
+
+<z:row ows_LinkTitle="EPA" ows_Full_x0020_Name="examination production application"/>
+
+<z:row ows_LinkTitle="EPAC" ows_Full_x0020_Name="Education in Pediatrics Across the Continuum"/>
+
+<z:row ows_LinkTitle="ER" ows_Full_x0020_Name="Examinee Records"/>
+
+<z:row ows_LinkTitle="ERAS" ows_Full_x0020_Name="Electronic Residency Application Services"/>
+
+<z:row ows_LinkTitle="ERP" ows_Full_x0020_Name="Enterprise Resource Planning"/>
+
+<z:row ows_LinkTitle="ERP/AR" ows_Full_x0020_Name="ERP Accounts Receivable"/>
+
+<z:row ows_LinkTitle="ERP/OM" ows_Full_x0020_Name="ERP Order Management"/>
+
+<z:row ows_LinkTitle="ERU" ows_Full_x0020_Name="Energy recovery unit - heart of the HVAC for the tower"/>
+
+<z:row ows_LinkTitle="ES" ows_Full_x0020_Name="Environmental survey"/>
+
+<z:row ows_LinkTitle="ESD" ows_Full_x0020_Name="Electronic Software Distribution (Prometric utility)"/>
+
+<z:row ows_LinkTitle="ESF" ows_Full_x0020_Name="Exam-specific File"/>
+
+<z:row ows_LinkTitle="ESL" ows_Full_x0020_Name="English as a second language"/>
+
+<z:row ows_LinkTitle="ESS" ows_Full_x0020_Name="Exam Support Services"/>
+
+<z:row ows_LinkTitle="ETS" ows_Full_x0020_Name="Educational Testing Service"/>
+
+<z:row ows_LinkTitle="EU" ows_Full_x0020_Name="European Union"/>
+
+<z:row ows_LinkTitle="EuroBMA" ows_Full_x0020_Name="European Board of Medical Assessors"/>
+
+<z:row ows_LinkTitle="FAIMER" ows_Full_x0020_Name="Foundation for the Advancement of International Medical Education and Research"/>
+
+<z:row ows_LinkTitle="FARB" ows_Full_x0020_Name="Federation of Associations of Regulatory Boards"/>
+
+<z:row ows_LinkTitle="FASEB" ows_Full_x0020_Name="Federation of American Societies for Experimental Biology"/>
+
+<z:row ows_LinkTitle="FBP" ows_Full_x0020_Name="Flexible Blue Printing"/>
+
+<z:row ows_LinkTitle="FCVS" ows_Full_x0020_Name="Federation Credentials Verification Service – an FSMB service for state medical boards and other entities to obtain a verified, primary source record of a physician's core medical credentials"/>
+
+<z:row ows_LinkTitle="FFA" ows_Full_x0020_Name="Fixed form assignment"/>
+
+<z:row ows_LinkTitle="FIP" ows_Full_x0020_Name="Foundations of Independent Practice"/>
+
+<z:row ows_LinkTitle="FIPSE" ows_Full_x0020_Name="Fund for Improvement of Post-secondary Education"/>
+
+<z:row ows_LinkTitle="FLEAS" ows_Full_x0020_Name="e-Folio Learning System"/>
+
+<z:row ows_LinkTitle="FLEX" ows_Full_x0020_Name="Federation Licensing Examination"/>
+
+<z:row ows_LinkTitle="FMG" ows_Full_x0020_Name="Foreign Medical Graduate"/>
+
+<z:row ows_LinkTitle="FMGEMS" ows_Full_x0020_Name="Foreign Medical Graduate Examination in the Medical Sciences"/>
+
+<z:row ows_LinkTitle="FOM" ows_Full_x0020_Name="Foundations of Medicine"/>
+
+<z:row ows_LinkTitle="FRED" ows_Full_x0020_Name="Proprietary NBME software for delivering computer-based testing."/>
+
+<z:row ows_LinkTitle="FSA" ows_Full_x0020_Name="Flexible Spending Account – part of NBME healthcare benefits program"/>
+
+<z:row ows_LinkTitle="FSMB" ows_Full_x0020_Name="Federation of State Medical Boards"/>
+
+<z:row ows_LinkTitle="FTTH" ows_Full_x0020_Name="Fix The Typos Here"/>
+
+<z:row ows_LinkTitle="GAP" ows_Full_x0020_Name="“GAP Report” – 1973 Report of the Committee on Goals and Priorities of the NBME"/>
+
+<z:row ows_LinkTitle="GCC" ows_Full_x0020_Name="Gulf Cooperation Council"/>
+
+<z:row ows_LinkTitle="GEA" ows_Full_x0020_Name="Group on Educational Affairs (part of AAMC)"/>
+
+<z:row ows_LinkTitle="GEMS" ows_Full_x0020_Name="Global Evaluation Management System"/>
+
+<z:row ows_LinkTitle="GENOVA" ows_Full_x0020_Name="Generalized Analysis of Variance"/>
+
+<z:row ows_LinkTitle="GHLO" ows_Full_x0020_Name="Global Health Learning Opportunities"/>
+
+<z:row ows_LinkTitle="GME" ows_Full_x0020_Name="Graduate Medical Education"/>
+
+<z:row ows_LinkTitle="GME" ows_Full_x0020_Name="Generalists in Medical Education"/>
+
+<z:row ows_LinkTitle="GMER" ows_Full_x0020_Name="Global Minimum Essential Requirements of the International Institute for Medical Education"/>
+
+<z:row ows_LinkTitle="GMP" ows_Full_x0020_Name="Good Medical Practice"/>
+
+<z:row ows_LinkTitle="GOF" ows_Full_x0020_Name="General Operating Fund, the NBME’s reserves"/>
+
+<z:row ows_LinkTitle="GSA" ows_Full_x0020_Name="Group on Student Affairs (part of AAMC)"/>
+
+<z:row ows_LinkTitle="GTA" ows_Full_x0020_Name="Gynecologic Teaching Associates"/>
+
+<z:row ows_LinkTitle="GUMP" ows_Full_x0020_Name="General Undifferentiated Medical Practitioner – an acronym describing the “target” physician of USMLE Step 3, sometimes perceived as a pejorative."/>
+
+<z:row ows_LinkTitle="HCFA" ows_Full_x0020_Name="Health Care Financing Administration"/>
+
+<z:row ows_LinkTitle="HCP" ows_Full_x0020_Name="Healthcare Professional"/>
+
+<z:row ows_LinkTitle="HHRDC" ows_Full_x0020_Name="Health Human Resources Development Center (of the Chinese Ministry of Helath)"/>
+
+<z:row ows_LinkTitle="HIE" ows_Full_x0020_Name="Health Information Exchanges"/>
+
+<z:row ows_LinkTitle="HIT" ows_Full_x0020_Name="Health Information Technology"/>
+
+<z:row ows_LinkTitle="HLM" ows_Full_x0020_Name="Hierarchal linear modeling (HLM) analysis"/>
+
+<z:row ows_LinkTitle="HMO" ows_Full_x0020_Name="Health Maintenance Organization"/>
+
+<z:row ows_LinkTitle="HPO" ows_Full_x0020_Name="Health Profession Organization"/>
+
+<z:row ows_LinkTitle="HPS" ows_Full_x0020_Name="Health Profession Services"/>
+
+<z:row ows_LinkTitle="HSL" ows_Full_x0020_Name="Hospital Sirio Libanês"/>
+
+<z:row ows_LinkTitle="HVAC" ows_Full_x0020_Name="heating, ventilation, and air conditioning"/>
+
+<z:row ows_LinkTitle="IACAT" ows_Full_x0020_Name="International Association for Computerized Adaptive Testing "/>
+
+<z:row ows_LinkTitle="IAMRA" ows_Full_x0020_Name="International Association of Medical Regulatory Authorities"/>
+
+<z:row ows_LinkTitle="IASME" ows_Full_x0020_Name="International Association of Medical Science Educators"/>
+
+<z:row ows_LinkTitle="IBHRE" ows_Full_x0020_Name="International Board of Heart Rhythm Examiners"/>
+
+<z:row ows_LinkTitle="IBT" ows_Full_x0020_Name="Internet-based testing; also referred to as Web-based testing (WBT)"/>
+
+<z:row ows_LinkTitle="IC" ows_Full_x0020_Name="Integrated Case"/>
+
+<z:row ows_LinkTitle="ICAP" ows_Full_x0020_Name="International Collaborations Assessment Program"/>
+
+<z:row ows_LinkTitle="ICBSE" ows_Full_x0020_Name="Intercollegiate Basic Surgical Examination – jointly sponsored by Royal Colleges of Surgeons in Edinburgh, England, Glasgow, and Ireland"/>
+
+<z:row ows_LinkTitle="ICD" ows_Full_x0020_Name="Introduction to Clinical Diagnosis – NBME subject examination"/>
+
+<z:row ows_LinkTitle="ICE" ows_Full_x0020_Name="Integrated Clinical Encounter"/>
+
+<z:row ows_LinkTitle="ICE" ows_Full_x0020_Name="Institute for Credentialing Excellence"/>
+
+<z:row ows_LinkTitle="IDEAL" ows_Full_x0020_Name="International Database for Enhanced Asessments & Learning"/>
+
+<z:row ows_LinkTitle="IDSA" ows_Full_x0020_Name="Infectious Diseases Society of America"/>
+
+<z:row ows_LinkTitle="IEC" ows_Full_x0020_Name="International Electrotechnical Commission"/>
+
+<z:row ows_LinkTitle="IFOM" ows_Full_x0020_Name="International Foundations of Medicine"/>
+
+<z:row ows_LinkTitle="IIME" ows_Full_x0020_Name="Institute for International Medical Education"/>
+
+<z:row ows_LinkTitle="IMED" ows_Full_x0020_Name="International Medical Education Directory – product of ECFMG/FAIMER"/>
+
+<z:row ows_LinkTitle="IMG" ows_Full_x0020_Name="International Medical Graduate"/>
+
+<z:row ows_LinkTitle="IOM" ows_Full_x0020_Name="Institute of Medicine"/>
+
+<z:row ows_LinkTitle="IPAC" ows_Full_x0020_Name="International Physician Assessment Coalition"/>
+
+<z:row ows_LinkTitle="IPCC" ows_Full_x0020_Name="Internet Protocol Contact Center"/>
+
+<z:row ows_LinkTitle="IPE" ows_Full_x0020_Name="Institute for Physician Evaluation"/>
+
+<z:row ows_LinkTitle="IPMCG" ows_Full_x0020_Name="Interprofessional Professionalism Measurement Consulting Group"/>
+
+<z:row ows_LinkTitle="IQC" ows_Full_x0020_Name="International Qualification Certificate"/>
+
+<z:row ows_LinkTitle="IR" ows_Full_x0020_Name="Irregularity Report"/>
+
+<z:row ows_LinkTitle="IR" ows_Full_x0020_Name="Incident Report"/>
+
+<z:row ows_LinkTitle="IRA" ows_Full_x0020_Name="Institutional Research Agenda"/>
+
+<z:row ows_LinkTitle="IRB" ows_Full_x0020_Name="Institutional Review Board"/>
+
+<z:row ows_LinkTitle="IRC" ows_Full_x0020_Name="Interdisciplinary Review Committee"/>
+
+<z:row ows_LinkTitle="IRC" ows_Full_x0020_Name="Item Review Committee"/>
+
+<z:row ows_LinkTitle="IRT" ows_Full_x0020_Name="Item-Response Theory"/>
+
+<z:row ows_LinkTitle="ISE" ows_Full_x0020_Name="In-Service Exam"/>
+
+<z:row ows_LinkTitle="ISO" ows_Full_x0020_Name="International Organization of Standardization"/>
+
+<z:row ows_LinkTitle="ISP" ows_Full_x0020_Name="Infrastructure and Special Project – an NBME team"/>
+
+<z:row ows_LinkTitle="ITC" ows_Full_x0020_Name="International Test Commission"/>
+
+<z:row ows_LinkTitle="ITE" ows_Full_x0020_Name="In-Training Examination"/>
+
+<z:row ows_LinkTitle="ITS" ows_Full_x0020_Name="Internet Testing Systems"/>
+
+<z:row ows_LinkTitle="IVIMEDS" ows_Full_x0020_Name="International Virtual Medical School"/>
+
+<z:row ows_LinkTitle="IWW" ows_Full_x0020_Name="Item-Writing Workshop"/>
+
+<z:row ows_LinkTitle="JAMA" ows_Full_x0020_Name="Journal of the American Medical Association"/>
+
+<z:row ows_LinkTitle="JAMIA" ows_Full_x0020_Name="Journal of the American Medical Informatics Association"/>
+
+<z:row ows_LinkTitle="JCAHO" ows_Full_x0020_Name="Joint Commission on Accreditation of Healthcare Organizations"/>
+
+<z:row ows_LinkTitle="JEBS" ows_Full_x0020_Name="Journal of Educational and Behavioral Statistics"/>
+
+<z:row ows_LinkTitle="JIRA" ows_Full_x0020_Name="Internal Systems Issue and Defect Tracking Software"/>
+
+<z:row ows_LinkTitle="KSF" ows_Full_x0020_Name="Key success factors"/>
+
+<z:row ows_LinkTitle="LCME" ows_Full_x0020_Name="Liaison Committee on Medical Education"/>
+
+<z:row ows_LinkTitle="LEARN" ows_Full_x0020_Name="Longitudinal Educational Assessment Research Network"/>
+
+<z:row ows_LinkTitle="LOA" ows_Full_x0020_Name="Letter of Authorization"/>
+
+<z:row ows_LinkTitle="LOI" ows_Full_x0020_Name="Letter of intent"/>
+
+<z:row ows_LinkTitle="LSAC" ows_Full_x0020_Name="Law School Admissions Council"/>
+
+<z:row ows_LinkTitle="MA" ows_Full_x0020_Name="Medical Advisor"/>
+
+<z:row ows_LinkTitle="MARS" ows_Full_x0020_Name="Medical Advisor’s Review System"/>
+
+<z:row ows_LinkTitle="MB" ows_Full_x0020_Name="MakeBook"/>
+
+<z:row ows_LinkTitle="MCAT" ows_Full_x0020_Name="Medical College Admission Test"/>
+
+<z:row ows_LinkTitle="MCC" ows_Full_x0020_Name="Medical Council of Canada"/>
+
+<z:row ows_LinkTitle="MCO" ows_Full_x0020_Name="Managed Care Organization"/>
+
+<z:row ows_LinkTitle="MCQ" ows_Full_x0020_Name="Multiple-choice Question"/>
+
+<z:row ows_LinkTitle="MCS" ows_Full_x0020_Name="Measurement and Consulting Services"/>
+
+<z:row ows_LinkTitle="MDGs" ows_Full_x0020_Name="Millennium Development Goals"/>
+
+<z:row ows_LinkTitle="MEHPS" ows_Full_x0020_Name="Medical Education and Health Profession Services"/>
+
+<z:row ows_LinkTitle="MeSH" ows_Full_x0020_Name="Medical Subject Headings"/>
+
+<z:row ows_LinkTitle="MLE-G" ows_Full_x0020_Name="Medical Licensing Examination – General"/>
+
+<z:row ows_LinkTitle="MLE-S" ows_Full_x0020_Name="Medical Licensing Examination – Specialty"/>
+
+<z:row ows_LinkTitle="MML" ows_Full_x0020_Name="Master Mailing List"/>
+
+<z:row ows_LinkTitle="MMVR" ows_Full_x0020_Name="Medicine Meets Virtual Reality"/>
+
+<z:row ows_LinkTitle="MOC" ows_Full_x0020_Name="Maintenance of Certification/Competency"/>
+
+<z:row ows_LinkTitle="MOEX" ows_Full_x0020_Name="Ministry of Examination"/>
+
+<z:row ows_LinkTitle="MOH" ows_Full_x0020_Name="Ministry of Health"/>
+
+<z:row ows_LinkTitle="MOL" ows_Full_x0020_Name="Maintenance of Licensure"/>
+
+<z:row ows_LinkTitle="MPHI" ows_Full_x0020_Name="Michigan Public Health Institute"/>
+
+<z:row ows_LinkTitle="MPS" ows_Full_x0020_Name="Minimum passing score"/>
+
+<z:row ows_LinkTitle="MRA" ows_Full_x0020_Name="Measurement Research Associates"/>
+
+<z:row ows_LinkTitle="MRAC" ows_Full_x0020_Name="Medical Review and Accreditation Council in New Jersey"/>
+
+<z:row ows_LinkTitle="MRCP" ows_Full_x0020_Name="Membership of the Royal Colleges of Physicians"/>
+
+<z:row ows_LinkTitle="MSC" ows_Full_x0020_Name="Medical School Testing Center"/>
+
+<z:row ows_LinkTitle="MSEP" ows_Full_x0020_Name="Multi-Source Evaluation Processing"/>
+
+<z:row ows_LinkTitle="MSF" ows_Full_x0020_Name="Multi-source feedback"/>
+
+<z:row ows_LinkTitle="MSOS" ows_Full_x0020_Name="Medical School Online Store"/>
+
+<z:row ows_LinkTitle="MSOS" ows_Full_x0020_Name="Medical School Ordering System"/>
+
+<z:row ows_LinkTitle="MSP" ows_Full_x0020_Name="Medical School Portal"/>
+
+<z:row ows_LinkTitle="MSP" ows_Full_x0020_Name="Medical School Programs"/>
+
+<z:row ows_LinkTitle="MSS" ows_Full_x0020_Name="Medical Student Section of the American Medical Association"/>
+
+<z:row ows_LinkTitle="MSS" ows_Full_x0020_Name="Medical School Services"/>
+
+<z:row ows_LinkTitle="MSS" ows_Full_x0020_Name="Medical School Subject Exam"/>
+
+<z:row ows_LinkTitle="MSW" ows_Full_x0020_Name="Medical school web"/>
+
+<z:row ows_LinkTitle="NAAMA" ows_Full_x0020_Name="National Arab American Medical Association"/>
+
+<z:row ows_LinkTitle="NAPC" ows_Full_x0020_Name="National Alliance for Physician Competence"/>
+
+<z:row ows_LinkTitle="NaSGIM" ows_Full_x0020_Name="National Study of Graduate Education in Internal Medicine"/>
+
+<z:row ows_LinkTitle="NASPExAM" ows_Full_x0020_Name="North American Society for Pacing and Electrophysiology – a subsidiary of Heart Rhythm"/>
+
+<z:row ows_LinkTitle="NAVLE" ows_Full_x0020_Name="North American Veterinary Licensing Exam"/>
+
+<z:row ows_LinkTitle="NBDE" ows_Full_x0020_Name="National Board of Dental Examiners"/>
+
+<z:row ows_LinkTitle="NBE" ows_Full_x0020_Name="National Board of Echocardiography, Inc."/>
+
+<z:row ows_LinkTitle="NBME" ows_Full_x0020_Name="National Board of Medical Examiners®"/>
+
+<z:row ows_LinkTitle="NBOME" ows_Full_x0020_Name="National Board of Osteopathic Medical Examiners"/>
+
+<z:row ows_LinkTitle="NBPHE" ows_Full_x0020_Name="National Board of Public Health Examiners"/>
+
+<z:row ows_LinkTitle="NBPME" ows_Full_x0020_Name="National Board of Podiatric Medical Examiners"/>
+
+<z:row ows_LinkTitle="NBVME" ows_Full_x0020_Name="National Board of Veterinary Medical Examiners"/>
+
+<z:row ows_LinkTitle="NCCAA" ows_Full_x0020_Name="National Commission for the Certification of Anesthesiologist Assistants"/>
+
+<z:row ows_LinkTitle="NCCPA" ows_Full_x0020_Name="National Commission on Certification of Physician Assistants"/>
+
+<z:row ows_LinkTitle="NCHC" ows_Full_x0020_Name="National Coalition on Health Care"/>
+
+<z:row ows_LinkTitle="NCME" ows_Full_x0020_Name="National Council on Measurement in Education"/>
+
+<z:row ows_LinkTitle="NCTA" ows_Full_x0020_Name="National College Testing Association"/>
+
+<z:row ows_LinkTitle="NED" ows_Full_x0020_Name="In-house rewrite of FRED"/>
+
+<z:row ows_LinkTitle="NHRA" ows_Full_x0020_Name="National Health Regulatory Authority"/>
+
+<z:row ows_LinkTitle="NI" ows_Full_x0020_Name="New Innovations"/>
+
+<z:row ows_LinkTitle="NLM" ows_Full_x0020_Name="National Library of Medicine"/>
+
+<z:row ows_LinkTitle="NLP" ows_Full_x0020_Name="Natural Language Processing"/>
+
+<z:row ows_LinkTitle="NMEC" ows_Full_x0020_Name="National Medical Examination Centre in Beijing"/>
+
+<z:row ows_LinkTitle="NMLE" ows_Full_x0020_Name="National Medical Licensing Examination of China"/>
+
+<z:row ows_LinkTitle="NOCA" ows_Full_x0020_Name="National Organization for Competency Assurance"/>
+
+<z:row ows_LinkTitle="NP" ows_Full_x0020_Name="Nurse Practitioners"/>
+
+<z:row ows_LinkTitle="NPD" ows_Full_x0020_Name="New product development"/>
+
+<z:row ows_LinkTitle="NPRM" ows_Full_x0020_Name="Notice of Proposed Rulemaking"/>
+
+<z:row ows_LinkTitle="NQF" ows_Full_x0020_Name="National Quality Forum"/>
+
+<z:row ows_LinkTitle="NRMP" ows_Full_x0020_Name="National Resident Matching Program"/>
+
+<z:row ows_LinkTitle="NSAS" ows_Full_x0020_Name="NBME Self Assessment Services"/>
+
+<z:row ows_LinkTitle="NSP" ows_Full_x0020_Name="NBME Services Portal"/>
+
+<z:row ows_LinkTitle="NUS" ows_Full_x0020_Name="National University of Singapore"/>
+
+<z:row ows_LinkTitle="ONC" ows_Full_x0020_Name="Office of the National Coordinator for Health Information Technology"/>
+
+<z:row ows_LinkTitle="ONDCP" ows_Full_x0020_Name="Office of National Drug Control Policy"/>
+
+<z:row ows_LinkTitle="OOG" ows_Full_x0020_Name="Operations Oversight Group – oversight group for the Clinical Skills Evaluation Collaboration between the ECFMG and the NBME"/>
+
+<z:row ows_LinkTitle="OPE" ows_Full_x0020_Name="Office of Public Engagement"/>
+
+<z:row ows_LinkTitle="OPMC" ows_Full_x0020_Name="Office of Professional Medical Conduct"/>
+
+<z:row ows_LinkTitle="OPTI" ows_Full_x0020_Name="Osteopathic Postdoctoral Training Institutions"/>
+
+<z:row ows_LinkTitle="OR" ows_Full_x0020_Name="Operations Research – subunit of the NBME’s Professional Services unit"/>
+
+<z:row ows_LinkTitle="ORS" ows_Full_x0020_Name="Office of Research Support"/>
+
+<z:row ows_LinkTitle="OSCEs" ows_Full_x0020_Name="Objective Structured Clinical Examinations"/>
+
+<z:row ows_LinkTitle="OSHA" ows_Full_x0020_Name="Occupational Safety and Health Act"/>
+
+<z:row ows_LinkTitle="OSR" ows_Full_x0020_Name="Organization of Student Representatives"/>
+
+<z:row ows_LinkTitle="OTL" ows_Full_x0020_Name="Oracle Time & Labor"/>
+
+<z:row ows_LinkTitle="P&B" ows_Full_x0020_Name="Printing & Binding"/>
+
+<z:row ows_LinkTitle="P&P" ows_Full_x0020_Name="Pencil and paper"/>
+
+<z:row ows_LinkTitle="PACE" ows_Full_x0020_Name="Physician Assessment and Clinical Education Program of the University of California at San Diego"/>
+
+<z:row ows_LinkTitle="PACES" ows_Full_x0020_Name="Practical Assessment of Clinical Examination Skills"/>
+
+<z:row ows_LinkTitle="PAFAMS" ows_Full_x0020_Name="Pan-American Federation of Associations of Medical Schools"/>
+
+<z:row ows_LinkTitle="PANAL" ows_Full_x0020_Name="Analysis of performance across sections of an examination"/>
+
+<z:row ows_LinkTitle="PANCE" ows_Full_x0020_Name="Physician Assistant National Certifying Examination"/>
+
+<z:row ows_LinkTitle="PANRE" ows_Full_x0020_Name="Physician Assistant National Recertifying Examination"/>
+
+<z:row ows_LinkTitle="PAVE" ows_Full_x0020_Name="Program for the Assessment of Veterinary Education"/>
+
+<z:row ows_LinkTitle="PCIDSS" ows_Full_x0020_Name="Payment Card Industry Data Security Standard"/>
+
+<z:row ows_LinkTitle="PDR" ows_Full_x0020_Name="Physicians’ Desk Reference"/>
+
+<z:row ows_LinkTitle="PEP" ows_Full_x0020_Name="Process Enhancement Program"/>
+
+<z:row ows_LinkTitle="PES" ows_Full_x0020_Name="Professional Examination Service"/>
+
+<z:row ows_LinkTitle="PHR" ows_Full_x0020_Name="Personal Health Records"/>
+
+<z:row ows_LinkTitle="PHRC" ows_Full_x0020_Name="Pennsylvania Human Relations Commission"/>
+
+<z:row ows_LinkTitle="PIDC/PAID" ows_Full_x0020_Name="Philadelphia Industrial Development Corporation/Philadelphia Authority for Industrial Development"/>
+
+<z:row ows_LinkTitle="PIM" ows_Full_x0020_Name="Practice improvement module"/>
+
+<z:row ows_LinkTitle="PIPE" ows_Full_x0020_Name="Pre-Implementation Pilot Examination"/>
+
+<z:row ows_LinkTitle="PIZZA" ows_Full_x0020_Name="Practice-Tailored Self-Assessment (PIZZA)"/>
+
+<z:row ows_LinkTitle="PLAS" ows_Full_x0020_Name="Post-Licensure Assessment System"/>
+
+<z:row ows_LinkTitle="PLAT" ows_Full_x0020_Name="Physician Learning and Assessment Tool"/>
+
+<z:row ows_LinkTitle="PM" ows_Full_x0020_Name="Pain Medicine examination of the American Board of Anesthesiology"/>
+
+<z:row ows_LinkTitle="PMAC" ows_Full_x0020_Name="Pediatric Milestones Assessment Collaboration"/>
+
+<z:row ows_LinkTitle="PMAP" ows_Full_x0020_Name="Pediatrics milestones assessment pilot"/>
+
+<z:row ows_LinkTitle="PMHI" ows_Full_x0020_Name="Partners Harvard Medical International"/>
+
+<z:row ows_LinkTitle="PMSCO" ows_Full_x0020_Name="Subsidiary program of the Pennsylvania Medical Society"/>
+
+<z:row ows_LinkTitle="PN" ows_Full_x0020_Name="Patient Note"/>
+
+<z:row ows_LinkTitle="PNR" ows_Full_x0020_Name="Patient Note Rater"/>
+
+<z:row ows_LinkTitle="PNRS" ows_Full_x0020_Name="Patient Note Rating System"/>
+
+<z:row ows_LinkTitle="POC" ows_Full_x0020_Name="Prometric Operations Center"/>
+
+<z:row ows_LinkTitle="PORT" ows_Full_x0020_Name="Periodic Ophthalmic Review Test"/>
+
+<z:row ows_LinkTitle="PPO" ows_Full_x0020_Name="Preferred Provider Organization"/>
+
+<z:row ows_LinkTitle="PPT" ows_Full_x0020_Name="Paper and pencil testing"/>
+
+<z:row ows_LinkTitle="PRMB" ows_Full_x0020_Name="Puerto Rico Medical Board"/>
+
+<z:row ows_LinkTitle="PROMIS" ows_Full_x0020_Name="Patient-Reported Outcomes Measurement Information System"/>
+
+<z:row ows_LinkTitle="PS" ows_Full_x0020_Name="Professional Services – organizational unit of the NBME"/>
+
+<z:row ows_LinkTitle="PSAS" ows_Full_x0020_Name="President's Staff Appeals Subcommittee"/>
+
+<z:row ows_LinkTitle="PSEF" ows_Full_x0020_Name="Plastic Surgery Educational Foundation"/>
+
+<z:row ows_LinkTitle="PSIP" ows_Full_x0020_Name="Patient Safety Improvement Program"/>
+
+<z:row ows_LinkTitle="PTC" ows_Full_x0020_Name="Prometric Test Center"/>
+
+<z:row ows_LinkTitle="PTF" ows_Full_x0020_Name="Planning Task Force"/>
+
+<z:row ows_LinkTitle="PuPs" ows_Full_x0020_Name="Pervasive Ubiquitous Persons"/>
+
+<z:row ows_LinkTitle="QC" ows_Full_x0020_Name="Quality Control"/>
+
+<z:row ows_LinkTitle="QE" ows_Full_x0020_Name="Qualifying Examination"/>
+
+<z:row ows_LinkTitle="QIO" ows_Full_x0020_Name="Quality Improvement Organization"/>
+
+<z:row ows_LinkTitle="R&DSC" ows_Full_x0020_Name="Research and Development Steering Committee"/>
+
+<z:row ows_LinkTitle="RCA" ows_Full_x0020_Name="Root cause analysis"/>
+
+<z:row ows_LinkTitle="RCOG" ows_Full_x0020_Name="Royal College of Obstetricians and Gynecologists"/>
+
+<z:row ows_LinkTitle="RCP" ows_Full_x0020_Name="Royal College of Physicians"/>
+
+<z:row ows_LinkTitle="RCPI" ows_Full_x0020_Name="Royal College of Physicians of Ireland"/>
+
+<z:row ows_LinkTitle="RCR" ows_Full_x0020_Name="Royal College of Radiologists"/>
+
+<z:row ows_LinkTitle="RCS" ows_Full_x0020_Name="Royal Colleges of Surgeons of Great Britain"/>
+
+<z:row ows_LinkTitle="RCSI" ows_Full_x0020_Name="Royal College of Surgeons in Ireland"/>
+
+<z:row ows_LinkTitle="RDA" ows_Full_x0020_Name="Redevelopment Authority of Philadelphia"/>
+
+<z:row ows_LinkTitle="RFID" ows_Full_x0020_Name="Radio Frequency Identification"/>
+
+<z:row ows_LinkTitle="RFP" ows_Full_x0020_Name="Request for Proposal"/>
+
+<z:row ows_LinkTitle="RFS" ows_Full_x0020_Name="Resident and Fellows Section of the American Medical Association"/>
+
+<z:row ows_LinkTitle="RHIO" ows_Full_x0020_Name="Regional Health Information Organizations"/>
+
+<z:row ows_LinkTitle="RIG" ows_Full_x0020_Name="Rapid Item Generation"/>
+
+<z:row ows_LinkTitle="RIME" ows_Full_x0020_Name="Research in Medical Education"/>
+
+<z:row ows_LinkTitle="RPC" ows_Full_x0020_Name="Remote Procedure Call"/>
+
+<z:row ows_LinkTitle="RRC" ows_Full_x0020_Name="Residency Review Committee"/>
+
+<z:row ows_LinkTitle="RRG" ows_Full_x0020_Name="Research Review Group"/>
+
+<z:row ows_LinkTitle="RSA" ows_Full_x0020_Name="RSA is a security company that produces a small hardware device that is used by the NBME to authenticate people outside of the office to the VPN."/>
+
+<z:row ows_LinkTitle="RSPE" ows_Full_x0020_Name="Residency Selection Process Examination"/>
+
+<z:row ows_LinkTitle="RUP" ows_Full_x0020_Name="Rational Unified Process"/>
+
+<z:row ows_LinkTitle="RWJF" ows_Full_x0020_Name="Robert Wood Johnson Foundation"/>
+
+<z:row ows_LinkTitle="SA" ows_Full_x0020_Name="Strategic Agility"/>
+
+<z:row ows_LinkTitle="SAE" ows_Full_x0020_Name="Strategic Agility Executive"/>
+
+<z:row ows_LinkTitle="SAF" ows_Full_x0020_Name="Strategic Agility Forum"/>
+
+<z:row ows_LinkTitle="SAP" ows_Full_x0020_Name="Senior Advisors' Panel"/>
+
+<z:row ows_LinkTitle="SATF" ows_Full_x0020_Name="Strategic Agility Task Force"/>
+
+<z:row ows_LinkTitle="SBP" ows_Full_x0020_Name="System-based Practice"/>
+
+<z:row ows_LinkTitle="SCHS" ows_Full_x0020_Name="Saudi Commission for Health Specialties"/>
+
+<z:row ows_LinkTitle="SCIB" ows_Full_x0020_Name="Staff Committee on Irregular Behavior"/>
+
+<z:row ows_LinkTitle="SCOs" ows_Full_x0020_Name="Structured clinical observations"/>
+
+<z:row ows_LinkTitle="SCR" ows_Full_x0020_Name="Step Committee Retreat"/>
+
+<z:row ows_LinkTitle="SDDS" ows_Full_x0020_Name="Systems & Database Development Services"/>
+
+<z:row ows_LinkTitle="SDRME" ows_Full_x0020_Name="Society of Directors of Research in Medical Education"/>
+
+<z:row ows_LinkTitle="SEDEM" ows_Full_x0020_Name="Spanish medical education association"/>
+
+<z:row ows_LinkTitle="SEP" ows_Full_x0020_Name="Subject Examination Program"/>
+
+<z:row ows_LinkTitle="SEP" ows_Full_x0020_Name="Spoken English Proficiency"/>
+
+<z:row ows_LinkTitle="SERP" ows_Full_x0020_Name="Supplemental Executive Retirement Plan"/>
+
+<z:row ows_LinkTitle="SGA" ows_Full_x0020_Name="Scaling Group Application"/>
+
+<z:row ows_LinkTitle="SGIM" ows_Full_x0020_Name="Society for General Internal Medicine"/>
+
+<z:row ows_LinkTitle="SIFMA" ows_Full_x0020_Name="Security Industry Financial Markets Association"/>
+
+<z:row ows_LinkTitle="SIPOC" ows_Full_x0020_Name="Suppliers Inputs Process Outputs Customers"/>
+
+<z:row ows_LinkTitle="SIR" ows_Full_x0020_Name="Strategic Issues Review"/>
+
+<z:row ows_LinkTitle="SMB" ows_Full_x0020_Name="State Medical Board"/>
+
+<z:row ows_LinkTitle="SME" ows_Full_x0020_Name="Subject Matter Expert"/>
+
+<z:row ows_LinkTitle="SMERF" ows_Full_x0020_Name="Stemmler Medical Education Research Fund"/>
+
+<z:row ows_LinkTitle="SMLE" ows_Full_x0020_Name="Specialty medical licensure examinations"/>
+
+<z:row ows_LinkTitle="SMLE" ows_Full_x0020_Name="Singapore Medical Licensing Examination"/>
+
+<z:row ows_LinkTitle="SMT" ows_Full_x0020_Name="Senior Management Team"/>
+
+<z:row ows_LinkTitle="SNMA" ows_Full_x0020_Name="Student National Medical Association"/>
+
+<z:row ows_LinkTitle="SNOMED" ows_Full_x0020_Name="Systematized Nomenclature of Medicine"/>
+
+<z:row ows_LinkTitle="SOA" ows_Full_x0020_Name="Service Oriented Architecture"/>
+
+<z:row ows_LinkTitle="SOAP" ows_Full_x0020_Name="Subjective, objective, assessment, and plan"/>
+
+<z:row ows_LinkTitle="SODA" ows_Full_x0020_Name="Survey Outcome Data Analysis"/>
+
+<z:row ows_LinkTitle="SOTH" ows_Full_x0020_Name="Surgery of the Hand"/>
+
+<z:row ows_LinkTitle="SP" ows_Full_x0020_Name="Standardized Patients"/>
+
+<z:row ows_LinkTitle="SPEX" ows_Full_x0020_Name="Special Purpose Examination"/>
+
+<z:row ows_LinkTitle="SPIE" ows_Full_x0020_Name="Strategic planning and institutional effectiveness"/>
+
+<z:row ows_LinkTitle="SPSS" ows_Full_x0020_Name="Computer-based statistical analysis package"/>
+
+<z:row ows_LinkTitle="SQL" ows_Full_x0020_Name="Structured Query Language – computer language for accessing and manipulating databases"/>
+
+<z:row ows_LinkTitle="SS" ows_Full_x0020_Name="Support Services – NBME organizational unit; Scoring Services – subunit of the NBME’s Professional Services unit"/>
+
+<z:row ows_LinkTitle="SSRLE" ows_Full_x0020_Name="Supplement Real-Life Encounters"/>
+
+<z:row ows_LinkTitle="STFM" ows_Full_x0020_Name="Society of Teachers of Family Medicine"/>
+
+<z:row ows_LinkTitle="SWR" ows_Full_x0020_Name="Site Web Registration"/>
+
+<z:row ows_LinkTitle="T&E" ows_Full_x0020_Name="Travel and Expense"/>
+
+<z:row ows_LinkTitle="TA" ows_Full_x0020_Name="Trusted Agent"/>
+
+<z:row ows_LinkTitle="TAAG" ows_Full_x0020_Name="Test Administration Appeals Group"/>
+
+<z:row ows_LinkTitle="TAC" ows_Full_x0020_Name="Test Accommodations Committee"/>
+
+<z:row ows_LinkTitle="TADF" ows_Full_x0020_Name="Testing Agencies Disability Forum"/>
+
+<z:row ows_LinkTitle="TAP" ows_Full_x0020_Name="Trusted Agent Platform"/>
+
+<z:row ows_LinkTitle="TAPS" ows_Full_x0020_Name="Test Analysis Processing System"/>
+
+<z:row ows_LinkTitle="TAR" ows_Full_x0020_Name="Test Accommodation Request"/>
+
+<z:row ows_LinkTitle="TAS" ows_Full_x0020_Name="Test Administration Services – subunit of the NBME’s Professional Services unit"/>
+
+<z:row ows_LinkTitle="TASC" ows_Full_x0020_Name="Prometric test delivery software driver"/>
+
+<z:row ows_LinkTitle="TCA" ows_Full_x0020_Name="Test Center Administrator"/>
+
+<z:row ows_LinkTitle="TCE" ows_Full_x0020_Name="Test construction engine"/>
+
+<z:row ows_LinkTitle="TCFM" ows_Full_x0020_Name="Test Center File Management"/>
+
+<z:row ows_LinkTitle="TD" ows_Full_x0020_Name="Test Development"/>
+
+<z:row ows_LinkTitle="TD&D" ows_Full_x0020_Name="Test Material Development & Delivery"/>
+
+<z:row ows_LinkTitle="TDF" ows_Full_x0020_Name="Test Delivery Fee"/>
+
+<z:row ows_LinkTitle="TDS" ows_Full_x0020_Name="Test Development Services – subunit of the NBME’s Professional Services unit"/>
+
+<z:row ows_LinkTitle="THINC" ows_Full_x0020_Name="Trusted Hub Incorporated"/>
+
+<z:row ows_LinkTitle="TIPS" ows_Full_x0020_Name="Test Incident Processing System"/>
+
+<z:row ows_LinkTitle="TLR" ows_Full_x0020_Name="Transaction List Rating (Primum CCS)"/>
+
+<z:row ows_LinkTitle="TMD&D" ows_Full_x0020_Name="Test Material Development &Delivery"/>
+
+<z:row ows_LinkTitle="TMDC" ows_Full_x0020_Name="Test Material Development Committee"/>
+
+<z:row ows_LinkTitle="TS" ows_Full_x0020_Name="Testing Services – subunit of NBME’s Professional Services unit"/>
+
+<z:row ows_LinkTitle="TSE" ows_Full_x0020_Name="True Score Equating"/>
+
+<z:row ows_LinkTitle="TSR" ows_Full_x0020_Name="Transaction Stimulated Recall"/>
+
+<z:row ows_LinkTitle="TSSL" ows_Full_x0020_Name="Technology Services Support Line (9222)"/>
+
+<z:row ows_LinkTitle="TTAC" ows_Full_x0020_Name="Texas Torts Claims Act"/>
+
+<z:row ows_LinkTitle="TTS" ows_Full_x0020_Name="Technology Training and Support – an NBME team"/>
+
+<z:row ows_LinkTitle="UALL" ows_Full_x0020_Name="USMLE unified content outline"/>
+
+<z:row ows_LinkTitle="UAS" ows_Full_x0020_Name="Unified Administration System"/>
+
+<z:row ows_LinkTitle="UCSC" ows_Full_x0020_Name="University City Science Center"/>
+
+<z:row ows_LinkTitle="UME" ows_Full_x0020_Name="Undergraduate medical education"/>
+
+<z:row ows_LinkTitle="UMLS" ows_Full_x0020_Name="Unified Medical Language System"/>
+
+<z:row ows_LinkTitle="UNAM" ows_Full_x0020_Name="Universidad Nacional Autónoma de México (The National Autonomous University of Mexico)"/>
+
+<z:row ows_LinkTitle="UNOP" ows_Full_x0020_Name="USMLE/NBME Operation"/>
+
+<z:row ows_LinkTitle="UNTIL" ows_Full_x0020_Name="Unified test item library"/>
+
+<z:row ows_LinkTitle="USBJD" ows_Full_x0020_Name="United States Bone and Joint Decade"/>
+
+<z:row ows_LinkTitle="USF" ows_Full_x0020_Name="University of South Florida"/>
+
+<z:row ows_LinkTitle="USMG" ows_Full_x0020_Name="US Medical Graduate"/>
+
+<z:row ows_LinkTitle="USMLE" ows_Full_x0020_Name="United States Medical Licensing Examination®"/>
+
+<z:row ows_LinkTitle="USMLE-CC" ows_Full_x0020_Name="USMLE Composite Committee"/>
+
+<z:row ows_LinkTitle="USR" ows_Full_x0020_Name="Universal Scheduling and Registration System – part of Prometric software systems"/>
+
+<z:row ows_LinkTitle="UTS" ows_Full_x0020_Name="University of Texas System"/>
+
+<z:row ows_LinkTitle="VETQE" ows_Full_x0020_Name="NBVME-developed Qualifying Examination for graduates of non-accredited veterinary colleges"/>
+
+<z:row ows_LinkTitle="VIP" ows_Full_x0020_Name="Voucher Information Program"/>
+
+<z:row ows_LinkTitle="VoIP" ows_Full_x0020_Name="Voice-Over-Internet Protocol"/>
+
+<z:row ows_LinkTitle="VPN" ows_Full_x0020_Name=""Virtual Private Network" - how work-at-home people or staff who travel connect to the NBME to use the network when they are not here."/>
+
+<z:row ows_LinkTitle="VR" ows_Full_x0020_Name="Virtual Reality"/>
+
+<z:row ows_LinkTitle="VSP" ows_Full_x0020_Name="Visiting Scholar Program"/>
+
+<z:row ows_LinkTitle="VUE" ows_Full_x0020_Name="Virtual University Enterprises – Pearson VUE electronic test delivery"/>
+
+<z:row ows_LinkTitle="WAH" ows_Full_x0020_Name="Work At Home Program"/>
+
+<z:row ows_LinkTitle="WBA" ows_Full_x0020_Name="Work-based Assessment"/>
+
+<z:row ows_LinkTitle="WBT" ows_Full_x0020_Name="Web-based Testing"/>
+
+<z:row ows_LinkTitle="WCLG" ows_Full_x0020_Name="Wolverhampton Computational Linguistics Group"/>
+
+<z:row ows_LinkTitle="WDS" ows_Full_x0020_Name="Web Data Solutions"/>
+
+<z:row ows_LinkTitle="WEC" ows_Full_x0020_Name="Written Examination Committee"/>
+
+<z:row ows_LinkTitle="WFME" ows_Full_x0020_Name="World Federation for Medical Education"/>
+
+<z:row ows_LinkTitle="WHAT" ows_Full_x0020_Name="Women’s Health Assessment Tool"/>
+
+<z:row ows_LinkTitle="WHEAT" ows_Full_x0020_Name="Women’s Health Education and Assessment Tool"/>
+
+<z:row ows_LinkTitle="WHO" ows_Full_x0020_Name="World Health Organization"/>
+
+<z:row ows_LinkTitle="WQE" ows_Full_x0020_Name="Written Qualification Examination"/>
+
+<z:row ows_LinkTitle="XLIST" ows_Full_x0020_Name="XML stylesheets"/>
+
+<z:row ows_LinkTitle="XML" ows_Full_x0020_Name="Extensible Markup Language"/>
+
+</rs:data>
+
+</xml>
