@@ -12,8 +12,16 @@ Using an open project management plan. So all of the details, milestones, etc. c
 ##Project Details
 
 ###DONE
+
 ###DOING
+[] create the test xml, json and csv
+- 10 examples of each
+- generic
+
 ###FUTURE
+[] wire up angular
+[] test e2e and unit
+
 ###BLOCKS
 
 ####NOTES
