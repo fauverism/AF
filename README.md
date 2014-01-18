@@ -20,7 +20,11 @@ Using an open project management plan. So all of the details, milestones, etc. c
 - sketch out a ui
 - brainstorm
 
+
 ###FUTURE
+- wire up angular
+- test e2e and unit
+
 
 ###BLOCKS
 
